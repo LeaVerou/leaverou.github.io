@@ -1,0 +1,11 @@
+{
+	"project": [
+		{
+			"url": "http://blissfuljs.com/",
+			"image": "http://lea.verou.me/wp-content/uploads/2015/12/Screen-Shot-2015-12-04-at-16.59.39-300x127.png",
+			"name": "Bliss",
+			"description": "Want to use Vanilla JS but find native APIs a bit unwieldy? Bliss is for you.",
+			"blogPost": "http://lea.verou.me/2015/12/introducing-bliss-a-3kb-library-for-happier-vanilla-js/"
+		}
+	]
+}
