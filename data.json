@@ -6,6 +6,13 @@
 			"name": "Bliss",
 			"description": "Want to use Vanilla JS but find native APIs a bit unwieldy? Bliss is for you.",
 			"blogPost": "http://lea.verou.me/2015/12/introducing-bliss-a-3kb-library-for-happier-vanilla-js/"
+		},
+		{
+			"url": "http://leaverou.github.io/multirange/",
+			"image": "http://lea.verou.me/wp-content/uploads/2016/05/multirange.png",
+			"name": "Multirange",
+			"description": "A tiny polyfill for HTML5 multi-handle sliders.",
+			"blogPost": "http://lea.verou.me/2016/05/introducing-multirange-a-tiny-polyfill-for-html5-two-handle-sliders/"
 		}
 	]
 }
