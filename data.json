@@ -1,7 +1,12 @@
 {
 	"event": [
 		{
-			"talk": [],
+			"talk": [
+				{
+					"title": "TBD",
+					"type": "Talk"
+				}
+			],
 			"name": "FrontEndNorth",
 			"date": "2016-10-30",
 			"city": "Sheffield, UK",
@@ -9,7 +14,12 @@
 			"days": 1
 		},
 		{
-			"talk": [],
+			"talk": [
+				{
+					"title": "TBD",
+					"type": "Talk"
+				}
+			],
 			"url": "http://fitc.ca/",
 			"name": "Web Unleashed",
 			"date": "2016-10-03",
@@ -18,7 +28,12 @@
 			"days": 2
 		},
 		{
-			"talk": [],
+			"talk": [
+				{
+					"title": "TBD",
+					"type": "Talk"
+				}
+			],
 			"url": "https://braziljs.org/conf",
 			"name": "BrazilJS",
 			"date": "2016-08-26",
