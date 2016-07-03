@@ -35,7 +35,12 @@
 			"days": 2
 		},
 		{
-			"talk": [],
+			"talk": [
+				{
+					"title": "JS UX: Writing code for humans",
+					"type": "Talk"
+				}
+			],
 			"url": "http://yougottalovefrontend.com/#page-home",
 			"name": "YGLF 2016",
 			"date": "2016-06-27",
