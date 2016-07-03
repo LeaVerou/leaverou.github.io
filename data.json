@@ -26,7 +26,12 @@
 			"country": "br"
 		},
 		{
-			"talk": [],
+			"talk": [
+				{
+					"title": "TBD",
+					"type": "Keynote"
+				}
+			],
 			"url": "http://2016.jschannel.com",
 			"name": "JSChannel, India",
 			"date": "2016-07-15",
