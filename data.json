@@ -7,11 +7,12 @@
 					"type": "Talk"
 				}
 			],
-			"name": "FrontEndNorth",
-			"date": "2016-09-29",
-			"city": "Sheffield, UK",
-			"country": "gb",
-			"days": 1
+			"url": "http://fitc.ca/",
+			"name": "Web Unleashed",
+			"date": "2016-10-03",
+			"city": "Toronto",
+			"country": "ca",
+			"days": 2
 		},
 		{
 			"talk": [
@@ -20,12 +21,11 @@
 					"type": "Talk"
 				}
 			],
-			"url": "http://fitc.ca/",
-			"name": "Web Unleashed",
-			"date": "2016-10-03",
-			"city": "Toronto",
-			"country": "ca",
-			"days": 2
+			"name": "FrontEndNorth",
+			"date": "2016-09-29",
+			"city": "Sheffield, UK",
+			"country": "gb",
+			"days": 1
 		},
 		{
 			"talk": [
