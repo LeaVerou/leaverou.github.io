@@ -1,15 +1,25 @@
 {
 	"event": [
 		{
-			"talk": [],
+			"talk": [
+				{
+					"title": "TBD",
+					"type": "Talk"
+				}
+			],
 			"name": "FrontEndNorth",
-			"date": "2016-10-30",
-			"city": "Sheffield",
+			"date": "2016-09-29",
+			"city": "Sheffield, UK",
 			"country": "gb",
 			"days": 1
 		},
 		{
-			"talk": [],
+			"talk": [
+				{
+					"title": "TBD",
+					"type": "Talk"
+				}
+			],
 			"url": "http://fitc.ca/",
 			"name": "Web Unleashed",
 			"date": "2016-10-03",
@@ -18,7 +28,12 @@
 			"days": 2
 		},
 		{
-			"talk": [],
+			"talk": [
+				{
+					"title": "TBD",
+					"type": "Talk"
+				}
+			],
 			"url": "https://braziljs.org/conf",
 			"name": "BrazilJS",
 			"date": "2016-08-26",
@@ -26,7 +41,12 @@
 			"country": "br"
 		},
 		{
-			"talk": [],
+			"talk": [
+				{
+					"title": "TBD",
+					"type": "Keynote"
+				}
+			],
 			"url": "http://2016.jschannel.com",
 			"name": "JSChannel, India",
 			"date": "2016-07-15",
@@ -35,7 +55,12 @@
 			"days": 2
 		},
 		{
-			"talk": [],
+			"talk": [
+				{
+					"title": "JS UX: Writing code for humans",
+					"type": "Keynote"
+				}
+			],
 			"url": "http://yougottalovefrontend.com/#page-home",
 			"name": "YGLF 2016",
 			"date": "2016-06-27",
