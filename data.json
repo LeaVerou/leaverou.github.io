@@ -4,7 +4,7 @@
 			"talk": [],
 			"name": "FrontEndNorth",
 			"date": "2016-10-30",
-			"city": "Sheffield, UK",
+			"city": "Sheffield",
 			"country": "gb",
 			"days": 1
 		},
@@ -13,7 +13,7 @@
 			"url": "http://fitc.ca/",
 			"name": "Web Unleashed",
 			"date": "2016-10-03",
-			"city": "Toronto, Canada",
+			"city": "Toronto",
 			"country": "ca",
 			"days": 2
 		},
@@ -22,7 +22,7 @@
 			"url": "https://braziljs.org/conf",
 			"name": "BrazilJS",
 			"date": "2016-08-26",
-			"city": "Porto Alegre, Brazil",
+			"city": "Porto Alegre",
 			"country": "br"
 		},
 		{
@@ -30,7 +30,7 @@
 			"url": "http://2016.jschannel.com",
 			"name": "JSChannel, India",
 			"date": "2016-07-15",
-			"city": "Bangalore, India",
+			"city": "Bangalore",
 			"country": "in",
 			"days": 2
 		},
@@ -39,7 +39,7 @@
 			"url": "http://yougottalovefrontend.com/#page-home",
 			"name": "YGLF 2016",
 			"date": "2016-06-27",
-			"city": "Tel Aviv, Israel",
+			"city": "Tel Aviv",
 			"country": "il"
 		},
 		{
@@ -52,7 +52,7 @@
 			"url": "http://cssday.nl/2016",
 			"name": "HTML Day",
 			"date": "2016-06-17",
-			"city": "Amsterdam, The Netherlands",
+			"city": "Amsterdam",
 			"country": "nl"
 		},
 		{
@@ -65,7 +65,7 @@
 			"url": "http://conference.joomla.org",
 			"name": "Joomla World Conference",
 			"date": "2015-11-06",
-			"city": "Bangalore, India",
+			"city": "Bangalore",
 			"country": "in"
 		},
 		{
@@ -78,7 +78,7 @@
 			"url": "https://viewsourceconf.org/",
 			"name": "View Source",
 			"date": "2015-11-03",
-			"city": "Portland, Oregon, USA",
+			"city": "Portland, OR",
 			"country": "us"
 		},
 		{
@@ -91,7 +91,7 @@
 			"url": "http://2015.cssconf.eu/",
 			"name": "CSSconf EU",
 			"date": "2015-09-26",
-			"city": "Berlin, Germany",
+			"city": "Berlin",
 			"country": "de"
 		},
 		{
@@ -104,7 +104,7 @@
 			"url": "https://coldfrontconf.com/",
 			"name": "Coldfront",
 			"date": "2015-09-03",
-			"city": "Copenhagen, Denmark",
+			"city": "Copenhagen",
 			"country": "dk"
 		},
 		{
@@ -117,7 +117,7 @@
 			"url": "http://2015.cssconf.com/",
 			"name": "CSSConf",
 			"date": "2015-06-18",
-			"city": "New York, USA",
+			"city": "New York",
 			"country": "us",
 			"days": 2
 		},
@@ -131,7 +131,7 @@
 			"url": "http://smashingconf.com/",
 			"name": "SmashingConf NYC",
 			"date": "2015-06-17",
-			"city": "New York, USA",
+			"city": "New York",
 			"country": "us",
 			"days": 2
 		},
@@ -145,7 +145,7 @@
 			"url": "http://yougottalovefrontend.com",
 			"name": "You Gotta Love Frontend",
 			"date": "2015-06-08",
-			"city": "Tel Aviv, Israel",
+			"city": "Tel Aviv",
 			"country": "il",
 			"days": 2
 		},
@@ -163,7 +163,7 @@
 			"url": "http://www.webvisionsevent.com/barcelona/",
 			"name": "WebVisions Barcelona",
 			"date": "2014-06-20",
-			"city": "Barcelona, Spain",
+			"city": "Barcelona",
 			"country": "es"
 		},
 		{
@@ -176,7 +176,7 @@
 			"url": "http://2014.cssconf.com/",
 			"name": "CSSConf US",
 			"date": "2014-05-27",
-			"city": "Amelia Island, FL, USA",
+			"city": "Amelia Island, FL",
 			"country": "us"
 		},
 		{
@@ -189,7 +189,7 @@
 			"url": "http://ux14.gomodev.com/",
 			"name": "MoDevUX",
 			"date": "2014-05-20",
-			"city": "McLean, VA, USA",
+			"city": "McLean, VA",
 			"country": "us"
 		},
 		{
@@ -202,7 +202,7 @@
 			"url": "http://jqueryuk.com/",
 			"name": "jQuery UK",
 			"date": "2014-05-16",
-			"city": "Oxford, UK",
+			"city": "Oxford",
 			"country": "gb"
 		},
 		{
@@ -215,7 +215,7 @@
 			"url": "http://front-trends.com",
 			"name": "Front-Trends 2014",
 			"date": "2014-05-07",
-			"city": "Warsaw, Poland",
+			"city": "Warsaw",
 			"country": "pl",
 			"days": 3
 		},
@@ -229,7 +229,7 @@
 			"url": "http://aneventapart.com/event/boston-2014",
 			"name": "An Event Apart Boston 2014",
 			"date": "2014-04-28",
-			"city": "Boston, MA, USA",
+			"city": "Boston, MA",
 			"country": "us"
 		},
 		{
@@ -242,7 +242,7 @@
 			"url": "http://2014.cssconf.com.au/",
 			"name": "CSSConf AU",
 			"date": "2014-04-09",
-			"city": "Melbourne, Australia",
+			"city": "Melbourne",
 			"country": "au"
 		},
 		{
@@ -259,7 +259,7 @@
 			"url": "http://codemania.co.nz/",
 			"name": "Codemania",
 			"date": "2014-04-04",
-			"city": "Auckland, New Zealand",
+			"city": "Auckland",
 			"country": "nz"
 		},
 		{
@@ -276,7 +276,7 @@
 			"url": "http://smashingconf.com/",
 			"name": "SmashingConf Oxford",
 			"date": "2014-03-18",
-			"city": "Oxford, UK",
+			"city": "Oxford",
 			"country": "gb"
 		},
 		{
@@ -289,7 +289,7 @@
 			"url": "http://jqueryto.com/",
 			"name": "jQuery",
 			"date": "2014-03-15",
-			"city": "Toronto, Canada",
+			"city": "Toronto",
 			"country": "ca"
 		},
 		{
@@ -302,7 +302,7 @@
 			"url": "http://fluentconf.com/fluent2014",
 			"name": "O’Reilly Fluent 2014",
 			"date": "2014-03-11",
-			"city": "San Francisco, CA, USA",
+			"city": "San Francisco, CA",
 			"country": "us"
 		},
 		{
@@ -315,7 +315,7 @@
 			"url": "http://linz.kod.io/",
 			"name": "kod.io",
 			"date": "2014-03-01",
-			"city": "Linz, Austria",
+			"city": "Linz",
 			"country": "at"
 		},
 		{
@@ -328,7 +328,7 @@
 			"url": "http://www.londonjsconf.com/",
 			"name": "London JS Conf",
 			"date": "2014-02-13",
-			"city": "London, UK",
+			"city": "London",
 			"country": "gb"
 		},
 		{
@@ -341,7 +341,7 @@
 			"url": "http://aneventapart.com/event/san-francisco-2013",
 			"name": "An Event Apart SF 2013",
 			"date": "2013-12-09",
-			"city": "San Francisco, CA, USA",
+			"city": "San Francisco, CA",
 			"country": "us",
 			"feedback": "http://storify.com/LeaVerou/deep-css-secrets-an-event-apart-sf"
 		},
@@ -355,7 +355,7 @@
 			"url": "http://2013.jsconf.asia/",
 			"name": "JSConf.asia",
 			"date": "2013-11-28",
-			"city": "Manila, Philippines",
+			"city": "Manila",
 			"country": "ph",
 			"feedback": "http://storify.com/LeaVerou/css-in-the-4th-dimension-jsconf-asia-manila"
 		},
@@ -369,7 +369,7 @@
 			"url": "http://www.startechconf.com/",
 			"name": "StarTechConf",
 			"date": "2013-10-25",
-			"city": "Santiago, Chile",
+			"city": "Santiago",
 			"country": "cl"
 		},
 		{
@@ -382,7 +382,7 @@
 			"url": "http://www.blendconference.com/",
 			"name": "Blend Web Mix",
 			"date": "2013-10-01",
-			"city": "Lyon, France",
+			"city": "Lyon",
 			"country": "fr",
 			"feedback": "http://storify.com/LeaVerou/more-css-secrets-blendwebmix-lyon"
 		},
@@ -396,7 +396,7 @@
 			"url": "http://www.frontinsampa.com.br/",
 			"name": "FrontInSampa",
 			"date": "2013-09-14",
-			"city": "São Paulo, Brazil",
+			"city": "São Paulo",
 			"country": "br",
 			"feedback": "http://storify.com/LeaVerou/the-humble-border-radius-frontinsampa-s-o-paulo"
 		},
@@ -410,7 +410,7 @@
 			"url": "http://aneventapart.com/event/chicago-2013",
 			"name": "An Event Apart Chicago 2013",
 			"date": "2013-08-26",
-			"city": "Chicago, IL, USA",
+			"city": "Chicago, IL",
 			"country": "us",
 			"feedback": "http://storify.com/LeaVerou/deep-css-secrets-an-event-apart-chicago"
 		},
@@ -424,7 +424,7 @@
 			"url": "http://hybridconf.net/speakers#lea-verou",
 			"name": "HybridConf",
 			"date": "2013-08-15",
-			"city": "Cardiff, Wales",
+			"city": "Cardiff",
 			"country": "gb",
 			"feedback": "http://storify.com/LeaVerou/css-in-the-4th-dimension-hybridconf"
 		},
@@ -438,7 +438,7 @@
 			"url": "http://engineers4engineers.org/",
 			"name": "engineers4engineers",
 			"date": "2013-06-28",
-			"city": "Boston, MA, USA",
+			"city": "Boston, MA",
 			"country": "us"
 		},
 		{
@@ -451,7 +451,7 @@
 			"url": "http://aneventapart.com/event/boston-2013",
 			"name": "An Event Apart Boston 2013",
 			"date": "2013-06-25",
-			"city": "Boston, MA, USA",
+			"city": "Boston, MA",
 			"country": "us",
 			"feedback": "http://storify.com/LeaVerou/deep-css-secrets-an-event-apart-boston"
 		},
@@ -466,7 +466,7 @@
 			"url": "http://cssday.nl/",
 			"name": "CSS Day",
 			"date": "2013-06-14",
-			"city": "Amsterdam, The Netherlands",
+			"city": "Amsterdam",
 			"country": "nl",
 			"feedback": "http://storify.com/LeaVerou/the-humble-border-radius-cssday-2013"
 		},
@@ -480,7 +480,7 @@
 			"url": "http://gobeyondpixels.com/",
 			"name": "Go Beyond Pixels",
 			"date": "2013-06-07",
-			"city": "St. John's, Newfoundland, Canada",
+			"city": "St. John's, Newfoundland",
 			"country": "ca",
 			"feedback": "http://storify.com/LeaVerou/more-css-secrets-gobeyondpixels"
 		},
@@ -495,7 +495,7 @@
 			"url": "http://fluentconf.com/fluent2013",
 			"name": "O’Reilly Fluent 2013",
 			"date": "2013-05-30",
-			"city": "San Francisco, CA, USA",
+			"city": "San Francisco, CA",
 			"country": "us",
 			"feedback": "http://storify.com/LeaVerou/everything-you-always-wanted-to-know-about-web-sta"
 		},
@@ -509,7 +509,7 @@
 			"url": "http://cssconf.com",
 			"name": "CSSConf",
 			"date": "2013-05-28",
-			"city": "Amelia Island, FL, USA",
+			"city": "Amelia Island, FL",
 			"country": "us",
 			"feedback": "http://storify.com/LeaVerou/the-humble-border-radius-cssconf-2013"
 		},
@@ -524,7 +524,7 @@
 			"url": "http://futureofwebdesign.com/london-2013/",
 			"name": "FOWD London",
 			"date": "2013-05-15",
-			"city": "London, UK",
+			"city": "London",
 			"country": "gb"
 		},
 		{
@@ -537,7 +537,7 @@
 			"url": "http://www.multi-mania.be/13/",
 			"name": "Multi-Mania",
 			"date": "2013-05-13",
-			"city": "Kortrijk, Belgium",
+			"city": "Kortrijk",
 			"country": "be"
 		},
 		{
@@ -551,7 +551,7 @@
 			"url": "http://2013.front-trends.com",
 			"name": "Front Trends 2013",
 			"date": "2013-04-24",
-			"city": "Warsaw, Poland",
+			"city": "Warsaw",
 			"country": "pl"
 		},
 		{
@@ -564,7 +564,7 @@
 			"url": "http://hua.fosscomm.gr/",
 			"name": "FOSSCOMM 2013",
 			"date": "2013-04-21",
-			"city": "Athens, Greece",
+			"city": "Athens",
 			"country": "gr"
 		},
 		{
@@ -581,7 +581,7 @@
 			"url": "http://anglebrackets.org/",
 			"name": "Anglebrackets",
 			"date": "2013-04-11",
-			"city": "Las Vegas, NV, USA",
+			"city": "Las Vegas, NV",
 			"country": "us"
 		},
 		{
@@ -595,7 +595,7 @@
 			"url": "http://kingsofcode.com/conference/2012/speakers",
 			"name": "Kings of Code",
 			"date": "2012-12-03",
-			"city": "Amsterdam, The Netherlands",
+			"city": "Amsterdam",
 			"country": "nl"
 		},
 		{
@@ -608,7 +608,7 @@
 			"url": "http://futureofwebdesign.com/prague-2012/speakers",
 			"name": "FOWD Prague",
 			"date": "2012-11-29",
-			"city": "Prague, Czech Republic",
+			"city": "Prague",
 			"country": "cz"
 		},
 		{
@@ -621,7 +621,7 @@
 			"url": "http://south12.webdirections.org/speakers-sessions",
 			"name": "Web Directions South 2012",
 			"date": "2012-10-18",
-			"city": "Sydney, Australia",
+			"city": "Sydney",
 			"country": "au"
 		},
 		{
@@ -635,7 +635,7 @@
 			"url": "http://fronteers.nl/congres/2012",
 			"name": "Fronteers 2012",
 			"date": "2012-10-04",
-			"city": "Amsterdam, The Netherlands",
+			"city": "Amsterdam",
 			"country": "nl"
 		},
 		{
@@ -648,7 +648,7 @@
 			"url": "http://2012.fromthefront.it/",
 			"name": "FromTheFront 2012",
 			"date": "2012-09-20",
-			"city": "Bologna, Italy",
+			"city": "Bologna",
 			"country": "it"
 		},
 		{
@@ -662,7 +662,7 @@
 			"url": "http://smashingconf.com/2012",
 			"name": "Smashing Conference",
 			"date": "2012-09-17",
-			"city": "Freiburg, Germany",
+			"city": "Freiburg",
 			"country": "de"
 		},
 		{
@@ -676,7 +676,7 @@
 			"url": "http://wdcnz.com/",
 			"name": "WDCNZ 2012",
 			"date": "2012-08-02",
-			"city": "Wellington, New Zealand",
+			"city": "Wellington",
 			"country": "nz"
 		},
 		{
@@ -689,7 +689,7 @@
 			"url": "http://www.gothamjs.com/",
 			"name": "GothamJS",
 			"date": "2012-07-14",
-			"city": "New York City, NY, USA",
+			"city": "New York City, NY",
 			"country": "us"
 		},
 		{
@@ -702,7 +702,7 @@
 			"url": "http://2012.texasjavascript.com/",
 			"name": "TXJS 2012",
 			"date": "2012-06-14",
-			"city": "Austin, TX, USA",
+			"city": "Austin, TX",
 			"country": "us"
 		},
 		{
@@ -720,7 +720,7 @@
 			"url": "http://www.ndcoslo.com/",
 			"name": "Norwegian Developers Conference",
 			"date": "2012-06-05",
-			"city": "Oslo, Norway",
+			"city": "Oslo",
 			"country": "no"
 		},
 		{
@@ -739,7 +739,7 @@
 			"url": "http://fluentconf.com/fluent2012/public/schedule/speaker/133766",
 			"name": "O’Reilly Fluent 2012",
 			"date": "2012-05-30",
-			"city": "San Francisco, USA",
+			"city": "San Francisco",
 			"country": "us"
 		},
 		{
@@ -753,7 +753,7 @@
 			"url": "http://webshaped.fi/speakers",
 			"name": "Webshaped",
 			"date": "2012-05-16",
-			"city": "Helsinki, Finland",
+			"city": "Helsinki",
 			"country": "fi"
 		},
 		{
@@ -767,7 +767,7 @@
 			"url": "http://2012.front-trends.com",
 			"name": "Front Trends 2012",
 			"date": "2012-04-26",
-			"city": "Warsaw, Poland",
+			"city": "Warsaw",
 			"country": "pl"
 		},
 		{
@@ -780,7 +780,7 @@
 			"url": "http://webmontag-berlin.de/webmontag-63-frontend-dev/",
 			"name": "Web Montag",
 			"date": "2012-04-23",
-			"city": "Berlin, Germany",
+			"city": "Berlin",
 			"country": "de"
 		},
 		{
@@ -793,7 +793,7 @@
 			"url": "http://devslovebacon.com/",
 			"name": "Devs Love Bacon",
 			"date": "2012-04-20",
-			"city": "London, UK",
+			"city": "London",
 			"country": "gb"
 		},
 		{
@@ -806,7 +806,7 @@
 			"url": "http://sxsw.com/",
 			"name": "SXSW 2012",
 			"date": "2012-03-09",
-			"city": "Austin, TX, USA",
+			"city": "Austin, TX",
 			"country": "us"
 		},
 		{
@@ -819,7 +819,7 @@
 			"url": "http://www.dday.fi/speakers#lea",
 			"name": "DDay",
 			"date": "2012-02-06",
-			"city": "Helsinki, Finland",
+			"city": "Helsinki",
 			"country": "fi"
 		},
 		{
@@ -833,7 +833,7 @@
 			"url": "http://swdc.se/2011/",
 			"name": "SWDC 2011",
 			"date": "2011-11-09",
-			"city": "Stockholm, Sweden",
+			"city": "Stockholm",
 			"country": "se"
 		},
 		{
@@ -846,7 +846,7 @@
 			"url": "http://www.frontend2011.com/",
 			"name": "Frontend 2011",
 			"date": "2011-10-10",
-			"city": "Oslo, Norway",
+			"city": "Oslo",
 			"country": "no"
 		},
 		{
@@ -864,7 +864,7 @@
 			"url": "http://fronteers.nl/congres/2011",
 			"name": "Fronteers 2011",
 			"date": "2011-10-06",
-			"city": "Amsterdam, The Netherlands",
+			"city": "Amsterdam",
 			"country": "nl",
 			"comment": "My talk was considered one of the <a href='http://www.netmagazine.com/features/2011-review-15-web-conference-talks-you-need-watch' target='_blank'>15 best talks of 2011 by .net magazine</a>"
 		},
@@ -879,7 +879,7 @@
 			"url": "http://jsconf.eu/2011/speakers.html#entry-4802",
 			"name": "JSConf EU",
 			"date": "2011-10-01",
-			"city": "Berlin, Germany",
+			"city": "Berlin",
 			"country": "de"
 		},
 		{
@@ -892,7 +892,7 @@
 			"url": "http://2011.fromthefront.it/",
 			"name": "FromTheFront",
 			"date": "2011-09-29",
-			"city": "Cesena, Italy",
+			"city": "Cesena",
 			"country": "it"
 		},
 		{
@@ -905,7 +905,7 @@
 			"url": "http://2011.frontendconf.ch/",
 			"name": "Frontend conference",
 			"date": "2011-09-09",
-			"city": "Zurich, Switzerland",
+			"city": "Zurich",
 			"country": "ch",
 			"feedback": "http://lea.verou.me/2011/09/my-experience-from-frontendconf-zurich/"
 		},
@@ -933,7 +933,7 @@
 			"url": "http://standards-next.org/2011/05/focus-on-css-3/",
 			"name": "Standards.next",
 			"date": "2011-05-28",
-			"city": "London, UK",
+			"city": "London",
 			"country": "gb",
 			"feedback": "http://lea.verou.me/2011/06/my-experience-from-web-directions-media-standards-next/"
 		},
@@ -948,7 +948,7 @@
 			"url": "http://atmedia11.webdirections.org/program/design/#css3-at-the-outer-rim",
 			"name": "Web Directions @media",
 			"date": "2011-05-26",
-			"city": "London, UK",
+			"city": "London",
 			"country": "gb",
 			"feedback": "http://lea.verou.me/2011/06/my-experience-from-web-directions-media-standards-next/"
 		},
@@ -967,7 +967,7 @@
 			"url": "http://robertnyman.com/2011/04/06/geek-meet-may-2011-with-lea-verou/",
 			"name": "Geek Meet",
 			"date": "2011-05-10",
-			"city": "Stockholm, Sweden",
+			"city": "Stockholm",
 			"country": "se",
 			"feedback": "http://lea.verou.me/2011/05/my-experience-from-geek-meet/"
 		},
@@ -986,7 +986,7 @@
 			"url": "http://ritconf.ru/2011/guru/812.html",
 			"name": "РИТ++ conference",
 			"date": "2011-04-25",
-			"city": "Moscow, Russia",
+			"city": "Moscow",
 			"country": "ru"
 		},
 		{
@@ -999,7 +999,7 @@
 			],
 			"name": "Framsia",
 			"date": "2011-02-24",
-			"city": "Oslo, Norway",
+			"city": "Oslo",
 			"country": "no"
 		},
 		{
@@ -1013,7 +1013,7 @@
 			"url": "http://2010.front-trends.com/",
 			"name": "Front-Trends conference",
 			"date": "2010-10-21",
-			"city": "Warsaw, Poland",
+			"city": "Warsaw",
 			"country": "pl",
 			"comment": "My slides became quite popular and were featured in the homepages of SlideShare, reddit, YCombinator Hacker News and many other websites. Christian Heilmann praised it on <a href=\"http://www.wait-till-i.com/2010/10/25/fronttrends2010-in-warsaw-poland-my-impressions-slides-and-audio/\">his review</a>",
 			"days": 2,
