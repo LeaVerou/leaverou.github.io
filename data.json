@@ -34,6 +34,19 @@
 					"type": "Talk"
 				}
 			],
+			"url": "http://mirrorconf.com",
+			"name": "MirrorConf",
+			"date": "2016-09-23",
+			"city": "Braga",
+			"country": "pt"
+		},
+		{
+			"talk": [
+				{
+					"title": "TBD",
+					"type": "Talk"
+				}
+			],
 			"url": "https://braziljs.org/conf",
 			"name": "BrazilJS",
 			"date": "2016-08-26",
