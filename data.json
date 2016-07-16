@@ -225,7 +225,8 @@
 			"name": "CSSConf US",
 			"date": "2014-05-27",
 			"city": "Amelia Island, FL",
-			"country": "us"
+			"country": "us",
+			"feedback": "https://storify.com/LeaVerou/the-missing-slice-cssconf-us-2015"
 		},
 		{
 			"talk": [
@@ -238,7 +239,8 @@
 			"name": "MoDevUX",
 			"date": "2014-05-20",
 			"city": "McLean, VA",
-			"country": "us"
+			"country": "us",
+			"feedback": "https://storify.com/LeaVerou/behind-the-screens-modevux"
 		},
 		{
 			"talk": [
@@ -251,7 +253,8 @@
 			"name": "jQuery UK",
 			"date": "2014-05-16",
 			"city": "Oxford",
-			"country": "gb"
+			"country": "gb",
+			"feedback": "https://storify.com/LeaVerou/the-chroma-zone-jquery-uk-2014"
 		},
 		{
 			"talk": [
@@ -291,7 +294,8 @@
 			"name": "CSSConf AU",
 			"date": "2014-04-09",
 			"city": "Melbourne",
-			"country": "au"
+			"country": "au",
+			"feedback": "https://storify.com/LeaVerou/the-chroma-zone-cssconf-au"
 		},
 		{
 			"talk": [
@@ -325,7 +329,8 @@
 			"name": "SmashingConf Oxford",
 			"date": "2014-03-18",
 			"city": "Oxford",
-			"country": "gb"
+			"country": "gb",
+			"feedback": "https://storify.com/LeaVerou/the-chroma-zone-smashingconf-oxford"
 		},
 		{
 			"talk": [
@@ -338,7 +343,8 @@
 			"name": "jQuery",
 			"date": "2014-03-15",
 			"city": "Toronto",
-			"country": "ca"
+			"country": "ca",
+			"feedback": "https://storify.com/LeaVerou/the-chroma-zone-jquery-to-toronto-canada"
 		},
 		{
 			"talk": [
@@ -351,7 +357,8 @@
 			"name": "O’Reilly Fluent 2014",
 			"date": "2014-03-11",
 			"city": "San Francisco, CA",
-			"country": "us"
+			"country": "us",
+			"feedback": "https://storify.com/LeaVerou/the-humble-border-radius-fluentconf-san-francisco"
 		},
 		{
 			"talk": [
@@ -364,7 +371,8 @@
 			"name": "kod.io",
 			"date": "2014-03-01",
 			"city": "Linz",
-			"country": "at"
+			"country": "at",
+			"feedback": "https://storify.com/LeaVerou/the-chroma-zone-kod-io-linz-austria"
 		},
 		{
 			"talk": [
