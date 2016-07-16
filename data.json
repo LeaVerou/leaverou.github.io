@@ -65,6 +65,7 @@
 			"date": "2016-07-15",
 			"city": "Bangalore",
 			"country": "in",
+			"feedback": "https://editor.storify.com/5789cd56f83c57d46bf3f69b",
 			"days": 2
 		},
 		{
@@ -91,7 +92,8 @@
 			"name": "HTML Day",
 			"date": "2016-06-17",
 			"city": "Amsterdam",
-			"country": "nl"
+			"country": "nl",
+			"feedback": "storify.com/LeaVerou/html-secrets-css-day-2016"
 		},
 		{
 			"talk": [
@@ -104,7 +106,8 @@
 			"name": "Joomla World Conference",
 			"date": "2015-11-06",
 			"city": "Bangalore",
-			"country": "in"
+			"country": "in",
+			"feedback": "https://storify.com/LeaVerou/the-missing-slice-jwc-2015-bangalore"
 		},
 		{
 			"talk": [
@@ -117,7 +120,8 @@
 			"name": "View Source",
 			"date": "2015-11-03",
 			"city": "Portland, OR",
-			"country": "us"
+			"country": "us",
+			"feedback": "https://storify.com/LeaVerou/the-missing-slice-view-source-2015"
 		},
 		{
 			"talk": [
@@ -130,7 +134,8 @@
 			"name": "CSSconf EU",
 			"date": "2015-09-26",
 			"city": "Berlin",
-			"country": "de"
+			"country": "de",
+			"feedback": "https://storify.com/LeaVerou/the-missing-slice-cssconf-eu-2015"
 		},
 		{
 			"talk": [
@@ -143,7 +148,8 @@
 			"name": "Coldfront",
 			"date": "2015-09-03",
 			"city": "Copenhagen",
-			"country": "dk"
+			"country": "dk",
+			"feedback": "https://storify.com/LeaVerou/the-missing-slice-coldfront-2015"
 		},
 		{
 			"talk": [
@@ -157,6 +163,7 @@
 			"date": "2015-06-18",
 			"city": "New York",
 			"country": "us",
+			"feedback": "https://storify.com/LeaVerou/the-missing-slice-cssconf-us-2015",
 			"days": 2
 		},
 		{
@@ -171,6 +178,7 @@
 			"date": "2015-06-17",
 			"city": "New York",
 			"country": "us",
+			"feedback": "https://storify.com/LeaVerou/the-missing-slice-smashingconf-nyc-2015",
 			"days": 2
 		},
 		{
@@ -185,6 +193,7 @@
 			"date": "2015-06-08",
 			"city": "Tel Aviv",
 			"country": "il",
+			"feedback": "https://storify.com/LeaVerou/the-missing-slice",
 			"days": 2
 		},
 		{
@@ -202,7 +211,8 @@
 			"name": "WebVisions Barcelona",
 			"date": "2014-06-20",
 			"city": "Barcelona",
-			"country": "es"
+			"country": "es",
+			"feedback": "https://storify.com/LeaVerou/the-chroma-zone-webvisions-bcn"
 		},
 		{
 			"talk": [
