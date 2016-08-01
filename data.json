@@ -34,6 +34,19 @@
 					"type": "Talk"
 				}
 			],
+			"url": "https://2016.cssconf.com",
+			"name": "CSSConf US",
+			"date": "2016-09-26",
+			"city": "Boston",
+			"country": "us"
+		},
+		{
+			"talk": [
+				{
+					"title": "TBD",
+					"type": "Talk"
+				}
+			],
 			"url": "http://mirrorconf.com",
 			"name": "MirrorConf",
 			"date": "2016-09-23",
