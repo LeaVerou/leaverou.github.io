@@ -7,6 +7,19 @@
 					"type": "Talk"
 				}
 			],
+			"url": "http://www.dotcss.io/",
+			"name": "dotCSS",
+			"date": "2016-12-02",
+			"city": "Paris",
+			"country": "fr"
+		},
+		{
+			"talk": [
+				{
+					"title": "CSS Variables: var(--subtitle)",
+					"type": "Talk"
+				}
+			],
 			"url": "http://cssconf.asia",
 			"name": "CSSConf.asia",
 			"date": "2016-11-24",
