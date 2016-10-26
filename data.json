@@ -44,9 +44,10 @@
 			"talk": [
 				{
 					"title": "CSS Variables: var(--subtitle)",
-					"type": "Talk"
+					"type": "Keynote"
 				}
 			],
+			"url": "http://frontendnorth.com/",
 			"name": "FrontEndNorth",
 			"date": "2016-09-30",
 			"city": "Sheffield",
@@ -70,7 +71,7 @@
 			"talk": [
 				{
 					"title": "CSS Variables: var(--subtitle)",
-					"type": "Talk"
+					"type": "Keynote"
 				}
 			],
 			"url": "http://mirrorconf.com",
@@ -83,7 +84,7 @@
 			"talk": [
 				{
 					"title": "JS UX: Writing code for humans",
-					"type": "Talk"
+					"type": "Keynote"
 				}
 			],
 			"url": "https://braziljs.org/conf",
