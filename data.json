@@ -3,6 +3,19 @@
 		{
 			"talk": [
 				{
+					"title": "TBD",
+					"type": "Talk"
+				}
+			],
+			"url": "https://frontendunited.org/",
+			"name": "Frontend United",
+			"date": "2017-05-26",
+			"city": "Athens",
+			"country": "code"
+		},
+		{
+			"talk": [
+				{
 					"title": "CSS (Variable) Secrets",
 					"type": "Talk"
 				}
