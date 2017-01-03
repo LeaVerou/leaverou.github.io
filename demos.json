@@ -38,7 +38,9 @@
 		},
 		{
 			"name": "Talks list",
-			"tag": [],
+			"tag": [
+				"Hierarchy"
+			],
 			"id": "talks"
 		},
 		{
@@ -48,7 +50,9 @@
 		},
 		{
 			"name": "SVG Path editor",
-			"tag": [],
+			"tag": [
+				"SVG"
+			],
 			"id": "svgpath"
 		},
 		{
