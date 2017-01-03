@@ -51,7 +51,8 @@
 		{
 			"name": "SVG Path editor",
 			"tag": [
-				"SVG"
+				"SVG",
+				"mv-if"
 			],
 			"id": "svgpath"
 		},
