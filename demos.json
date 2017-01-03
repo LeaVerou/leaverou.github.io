@@ -57,7 +57,9 @@
 		},
 		{
 			"name": "Contact manager",
-			"tag": [],
+			"tag": [
+				"Hierarchy"
+			],
 			"id": "contacts"
 		},
 		{
