@@ -46,7 +46,8 @@
 		{
 			"name": "Invoicing system",
 			"tag": [
-				"Hierarchy"
+				"Hierarchy",
+				"Isolate item"
 			],
 			"id": "invoice"
 		},
