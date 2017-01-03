@@ -31,7 +31,9 @@
 		},
 		{
 			"name": "Interactive Mavo logo",
-			"tag": [],
+			"tag": [
+				"SVG"
+			],
 			"id": "logo"
 		},
 		{
