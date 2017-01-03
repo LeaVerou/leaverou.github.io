@@ -1,51 +1,63 @@
 {
 	"demo": [
 		{
-			"id": "todo",
-			"name": "To-Do List"
+			"name": "To-Do List",
+			"tag": [],
+			"id": "todo"
 		},
 		{
-			"id": "mortgage",
-			"name": "Mortgage Calculator"
+			"name": "Mortgage Calculator",
+			"tag": [],
+			"id": "mortgage"
 		},
 		{
-			"id": "color-picker",
-			"name": "Color picker"
+			"name": "Color picker",
+			"tag": [],
+			"id": "color-picker"
 		},
 		{
-			"id": "decisions",
 			"name": "Decisions (pros & cons)",
 			"tag": [
 				"Hierarchy"
-			]
+			],
+			"id": "decisions"
 		},
 		{
-			"id": "foodie",
-			"name": "Restaurant visit log"
+			"name": "Restaurant visit log",
+			"tag": [
+				"Hierarchy"
+			],
+			"id": "foodie"
 		},
 		{
-			"id": "logo",
-			"name": "Interactive Mavo logo"
+			"name": "Interactive Mavo logo",
+			"tag": [],
+			"id": "logo"
 		},
 		{
-			"id": "talks",
-			"name": "Talks list"
+			"name": "Talks list",
+			"tag": [],
+			"id": "talks"
 		},
 		{
-			"id": "invoice",
-			"name": "Invoicing system"
+			"name": "Invoicing system",
+			"tag": [],
+			"id": "invoice"
 		},
 		{
-			"id": "svgpath",
-			"name": "SVG Path editor"
+			"name": "SVG Path editor",
+			"tag": [],
+			"id": "svgpath"
 		},
 		{
-			"id": "contacts",
-			"name": "Contact manager"
+			"name": "Contact manager",
+			"tag": [],
+			"id": "contacts"
 		},
 		{
-			"id": "cheques",
-			"name": "Personal chequebook"
+			"name": "Personal chequebook",
+			"tag": [],
+			"id": "cheques"
 		}
 	]
 }
