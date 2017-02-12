@@ -2,7 +2,9 @@
 	"demo": [
 		{
 			"name": "To-Do List",
-			"tag": [],
+			"tag": [
+				"Remote"
+			],
 			"id": "todo"
 		},
 		{
@@ -39,7 +41,8 @@
 		{
 			"name": "Talks list",
 			"tag": [
-				"Hierarchy"
+				"Hierarchy",
+				"Remote"
 			],
 			"id": "talks"
 		},
@@ -47,12 +50,13 @@
 			"name": "Invoicing system",
 			"tag": [
 				"Hierarchy",
-				"Isolate item"
+				"Isolate item",
+				"Remote"
 			],
 			"id": "invoice"
 		},
 		{
-			"name": "SVG Path editor",
+			"name": "SVG Path builder",
 			"tag": [
 				"SVG",
 				"mv-if"
