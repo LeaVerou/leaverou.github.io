@@ -8,7 +8,10 @@
 				}
 			],
 			"url": "https://www.webdirections.org/code/",
-			"name": "Web Directions Code"
+			"name": "Web Directions Code",
+			"date": "2017-08-03",
+			"city": "Melbourne",
+			"country": "au"
 		},
 		{
 			"talk": [
@@ -19,7 +22,8 @@
 			],
 			"url": "https://holyjs-piter.ru/en/",
 			"name": "HolyJS",
-			"date": "2017-06-03"
+			"date": "2017-06-03",
+			"country": "ru"
 		},
 		{
 			"talk": [
