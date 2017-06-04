@@ -7,6 +7,27 @@
 					"type": "Talk"
 				}
 			],
+			"url": "https://www.webdirections.org/code/",
+			"name": "Web Directions Code"
+		},
+		{
+			"talk": [
+				{
+					"title": "JS UX: Writing code for humans",
+					"type": "Keynote"
+				}
+			],
+			"url": "https://holyjs-piter.ru/en/",
+			"name": "HolyJS",
+			"date": "2017-06-03"
+		},
+		{
+			"talk": [
+				{
+					"title": "CSS (Variable) Secrets",
+					"type": "Keynote"
+				}
+			],
 			"url": "https://frontendunited.org/",
 			"name": "Frontend United",
 			"date": "2017-05-26",
@@ -110,7 +131,8 @@
 			"talk": [
 				{
 					"title": "JS UX: Writing code for humans",
-					"type": "Keynote"
+					"type": "Keynote",
+					"video": "https://www.youtube.com/watch?v=hT9VgKgPglY"
 				}
 			],
 			"url": "http://2016.jschannel.com",
