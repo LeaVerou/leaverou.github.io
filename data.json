@@ -7,6 +7,18 @@
 					"type": "Talk"
 				}
 			],
+			"name": "Paris Web",
+			"date": "2017-10-05",
+			"city": "Paris",
+			"country": "fr"
+		},
+		{
+			"talk": [
+				{
+					"title": "TBD",
+					"type": "Talk"
+				}
+			],
 			"url": "https://www.webdirections.org/code/",
 			"name": "Web Directions Code",
 			"date": "2017-08-03",
