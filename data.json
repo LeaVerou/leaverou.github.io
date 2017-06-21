@@ -7,18 +7,6 @@
 					"type": "Talk"
 				}
 			],
-			"name": "TBD",
-			"date": "2017-10-17",
-			"city": "TBD",
-			"country": "es"
-		},
-		{
-			"talk": [
-				{
-					"title": "TBD",
-					"type": "Talk"
-				}
-			],
 			"url": "http://viewsourceconf.org/",
 			"name": "View Source",
 			"date": "2017-10-27",
@@ -36,6 +24,18 @@
 			"date": "2017-10-05",
 			"city": "Paris",
 			"country": "fr"
+		},
+		{
+			"talk": [
+				{
+					"title": "TBD",
+					"type": "Talk"
+				}
+			],
+			"name": "TBD",
+			"date": "2017-10-17",
+			"city": "TBD",
+			"country": "es"
 		},
 		{
 			"talk": [
