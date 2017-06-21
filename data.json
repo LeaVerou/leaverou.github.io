@@ -32,19 +32,6 @@
 					"type": "Talk"
 				}
 			],
-			"url": "www.frontend-con.io",
-			"name": "FRONTEND CON 2017",
-			"date": "2017-09-22",
-			"city": "Warsaw",
-			"country": "pl"
-		},
-		{
-			"talk": [
-				{
-					"title": "TBD",
-					"type": "Talk"
-				}
-			],
 			"name": "Paris Web",
 			"date": "2017-10-05",
 			"city": "Paris",
@@ -54,6 +41,19 @@
 			"talk": [
 				{
 					"title": "TBD",
+					"type": "Talk"
+				}
+			],
+			"url": "http://www.frontend-con.io",
+			"name": "FRONTEND CON 2017",
+			"date": "2017-09-22",
+			"city": "Warsaw",
+			"country": "pl"
+		},
+		{
+			"talk": [
+				{
+					"title": "Mavo: HTML re-imagined for the era of web apps",
 					"type": "Talk"
 				}
 			],
