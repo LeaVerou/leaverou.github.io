@@ -3,6 +3,19 @@
 		{
 			"talk": [
 				{
+					"title": "JS UX: Writing code for humans",
+					"type": "Talk"
+				}
+			],
+			"url": "https://holyjs-moscow.ru/en/",
+			"name": "HolyJS",
+			"date": "2017-12-10",
+			"city": "Moscow",
+			"country": "ru"
+		},
+		{
+			"talk": [
+				{
 					"title": "TBD",
 					"type": "Talk"
 				}
