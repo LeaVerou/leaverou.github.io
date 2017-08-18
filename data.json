@@ -20,10 +20,10 @@
 					"type": "Talk"
 				}
 			],
-			"name": "Paris Web",
-			"date": "2017-10-05",
-			"city": "Paris",
-			"country": "fr"
+			"name": "TBD",
+			"date": "2017-10-17",
+			"city": "TBD",
+			"country": "es"
 		},
 		{
 			"talk": [
@@ -32,10 +32,10 @@
 					"type": "Talk"
 				}
 			],
-			"name": "TBD",
-			"date": "2017-10-17",
-			"city": "TBD",
-			"country": "es"
+			"name": "Paris Web",
+			"date": "2017-10-05",
+			"city": "Paris",
+			"country": "fr"
 		},
 		{
 			"talk": [
