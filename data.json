@@ -41,7 +41,7 @@
 		{
 			"talk": [
 				{
-					"title": "TBD",
+					"title": "HTML re-imagined for the era of web apps",
 					"type": "Talk"
 				}
 			],
@@ -54,7 +54,7 @@
 			"talk": [
 				{
 					"title": "CSS (Variable) Secrets",
-					"type": "Talk"
+					"type": "Keynote"
 				}
 			],
 			"url": "http://www.frontend-con.io",
