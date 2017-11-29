@@ -3,7 +3,7 @@
 		{
 			"talk": [
 				{
-					"title": "JS UX: Writing code for humans",
+					"title": "/Reg(exp){2}lained/: Demystifying Regular Expressions",
 					"type": "Talk"
 				}
 			],
@@ -17,7 +17,8 @@
 			"talk": [
 				{
 					"title": "HTML re-imagined for the era of web apps",
-					"type": "Talk"
+					"type": "Talk",
+					"video": "https://www.youtube.com/watch?v=f_zPkDiAHRM"
 				}
 			],
 			"url": "http://viewsourceconf.org/",
@@ -29,14 +30,15 @@
 		{
 			"talk": [
 				{
-					"title": "TBD",
+					"title": "CSS (Variable) Secrets",
 					"type": "Talk"
 				}
 			],
-			"name": "TBD",
+			"name": "SmashingConf Barcelona",
 			"date": "2017-10-17",
-			"city": "TBD",
-			"country": "es"
+			"city": "Barcelona",
+			"country": "es",
+			"url": "https://smashingconf.com/barcelona-2017/"
 		},
 		{
 			"talk": [
@@ -67,7 +69,8 @@
 			"talk": [
 				{
 					"title": "Mavo: HTML re-imagined for the era of web apps",
-					"type": "Talk"
+					"type": "Talk",
+					"video": "https://www.webdirections.org/blog/video-week-mavo-html-re-imagined-era-web-apps-lea-verou/"
 				}
 			],
 			"url": "https://www.webdirections.org/code/",
