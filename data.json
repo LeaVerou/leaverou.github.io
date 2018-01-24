@@ -1264,6 +1264,13 @@
 	],
 	"project": [
 		{
+			"url": "https://mavo.io",
+			"image": "http://mavo.io/logo.svg",
+			"name": "Mavo",
+			"description": "Mavo helps you turn your static HTML into reactive web applications without a single line of programming code and no server backend. \nDeveloped in the Haystack Group at MIT CSAIL and led by Lea Verou.",
+			"blogPost": "http://lea.verou.me/2017/05/introducing-mavo-create-web-apps-entirely-by-writing-html/"
+		},
+		{
 			"url": "http://blissfuljs.com/",
 			"image": "http://lea.verou.me/wp-content/uploads/2015/12/Screen-Shot-2015-12-04-at-16.59.39-300x127.png",
 			"name": "Bliss",
