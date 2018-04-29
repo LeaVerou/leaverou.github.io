@@ -1306,8 +1306,39 @@
 			]
 		},
 		{
+			"type": "Academic Peer-reviewed papers",
+			"publication": [
+				{
+					"url": "https://dl.acm.org/citation.cfm?id=2998235",
+					"title": "Wikum: Bridging discussion forums and wikis using recursive summarization",
+					"venue": "CSCW 2017",
+					"date": "2017-02"
+				},
+				{
+					"url": "https://dl.acm.org/citation.cfm?id=2984551",
+					"title": "Mavo: creating interactive data-driven web applications by authoring HTML",
+					"venue": "UIST 2016",
+					"date": "2016-10"
+				}
+			]
+		},
+		{
 			"type": "Articles",
 			"publication": [
+				{
+					"url": "https://coding.smashingmagazine.com/2017/02/designing-html-apis/",
+					"title": "HTML APIs: What They Are And How To Design A Good One",
+					"venueUrl": "https://smashingmagazine.com/",
+					"venue": "Smashing Magazine",
+					"date": "2017-02"
+				},
+				{
+					"url": "https://coding.smashingmagazine.com/2015/07/designing-simple-pie-charts-with-css/",
+					"title": "Designing A Flexible, Maintainable CSS Pie Chart With SVG",
+					"venueUrl": "https://smashingmagazine.com/",
+					"venue": "Smashing Magazine",
+					"date": "2015-07"
+				},
 				{
 					"title": "Hot in web standards: May-June 2013",
 					"venue": ".net magazine",
@@ -1411,7 +1442,7 @@
 					"venue": "Smashing Magazine",
 					"date": "2011-09-10",
 					"url": "http://coding.smashingmagazine.com/2011/09/07/help-the-community-report-browser-bugs/",
-					"venueUrl": "http://smashingmagazine.com/"
+					"venueUrl": "https://smashingmagazine.com/"
 				},
 				{
 					"title": "Make your backgrounds shine",
