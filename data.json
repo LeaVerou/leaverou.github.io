@@ -1452,6 +1452,13 @@
 					"venueUrl": "https://smashingmagazine.com/"
 				},
 				{
+					"url": "https://24ways.org/2011/css3-patterns-explained/",
+					"title": "CSS3 Patterns, Explained",
+					"venueUrl": "https://24ways.org/2011/css3-patterns-explained/",
+					"venue": "24 Ways",
+					"date": "2011-12"
+				},
+				{
 					"title": "Make your backgrounds shine",
 					"venue": ".net magazine",
 					"date": "2011-12-15",
