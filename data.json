@@ -1285,7 +1285,7 @@
 			"blogPost": "http://lea.verou.me/2016/05/introducing-multirange-a-tiny-polyfill-for-html5-two-handle-sliders/"
 		}
 	],
-	"publication": [
+	"publicationType": [
 		{
 			"type": "Books",
 			"publication": [
