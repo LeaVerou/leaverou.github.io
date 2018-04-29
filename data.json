@@ -1284,5 +1284,105 @@
 			"description": "A tiny polyfill for HTML5 multi-handle sliders.",
 			"blogPost": "http://lea.verou.me/2016/05/introducing-multirange-a-tiny-polyfill-for-html5-two-handle-sliders/"
 		}
+	],
+	"writing": [
+		{
+			"name": "Books",
+			"publication": [
+				{
+					"url": "http://shop.oreilly.com/product/0636920031123.do",
+					"venueUrl": "http://oreilly.com/",
+					"date": "2015-05"
+				},
+				{
+					"url": "https://shop.smashingmagazine.com/smashing-book-3.html",
+					"venueUrl": "http://smashingmagazine.com/"
+				}
+			]
+		},
+		{
+			"name": "Articles",
+			"publication": [
+				{
+					"url": "http://www.netmagazine.com/features/hot-web-standards-mayjune-2013",
+					"venueUrl": "http://www.netmagazine.com/",
+					"date": "2013-07-03"
+				},
+				{
+					"url": "http://www.netmagazine.com/features/hot-web-standards-marchapril-2013",
+					"venueUrl": "http://www.netmagazine.com/",
+					"date": "2013-05-01"
+				},
+				{
+					"url": "http://www.netmagazine.com/features/hot-web-standards-januaryfebruary-2013",
+					"venueUrl": "http://www.netmagazine.com/",
+					"date": "2013-03-13"
+				},
+				{
+					"url": "http://www.netmagazine.com/features/hot-web-standards-novemberdecember-2012",
+					"venueUrl": "http://www.netmagazine.com/",
+					"date": "2012-12-18"
+				},
+				{
+					"url": "http://www.netmagazine.com/features/hot-web-standards-septemberoctober-2012",
+					"venueUrl": "http://www.netmagazine.com/",
+					"date": "2012-11-14"
+				},
+				{
+					"url": "http://www.netmagazine.com/features/hot-web-standards-julyaugust-2012",
+					"venueUrl": "http://www.netmagazine.com/",
+					"date": "2012-9-10"
+				},
+				{
+					"url": "http://www.netmagazine.com/features/hot-web-standards-june-2012",
+					"venueUrl": "http://www.netmagazine.com/",
+					"date": "2012-7-9"
+				},
+				{
+					"url": "http://www.netmagazine.com/features/hot-web-standards-css-blending-modes-and-filters-shadow-dom",
+					"venueUrl": "http://www.netmagazine.com/",
+					"date": "2012-5-31"
+				},
+				{
+					"url": "http://www.netmagazine.com/features/top-8-web-standards-myths-debunked",
+					"venueUrl": "http://www.netmagazine.com/",
+					"date": "2012-5-8"
+				},
+				{
+					"url": "http://www.alistapart.com/articles/every-time-you-call-a-proprietary-feature-css3-a-kitten-dies/",
+					"venueUrl": "http://www.alistapart.com/"
+				},
+				{
+					"url": "http://24ways.org/2011/css3-patterns-explained",
+					"venueUrl": "http://24ways.org/",
+					"date": "2011-12-15"
+				},
+				{
+					"url": "http://www.smashingmagazine.com/2011/11/03/%E2%80%9Cbut-the-client-wants-ie-6-support%E2%80%9D/",
+					"venueUrl": "http://smashingmagazine.com/",
+					"date": "2011-11-3"
+				},
+				{
+					"url": "http://coding.smashingmagazine.com/2011/10/19/optimizing-long-lists-of-yesno-values-with-javascript/",
+					"venueUrl": "http://smashingmagazine.com/",
+					"date": "2011-10-19"
+				},
+				{
+					"url": "http://coding.smashingmagazine.com/2011/10/12/prefixfree-break-free-from-css-prefix-hell/",
+					"venueUrl": "http://smashingmagazine.com/",
+					"date": "2011-10-12"
+				},
+				{
+					"url": "http://coding.smashingmagazine.com/2011/09/07/help-the-community-report-browser-bugs/",
+					"venueUrl": "http://smashingmagazine.com/",
+					"date": "2011-9-10"
+				},
+				{
+					"url": "http://www.netmagazine.com/news/issue-217-sale-now",
+					"venueUrl": "http://www.netmagazine.com/",
+					"date": "2011-12-15"
+				}
+			]
+		}
 	]
 }
