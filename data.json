@@ -1294,14 +1294,19 @@
 					"venue": "O’Reilly Media",
 					"date": "2015-05",
 					"url": "http://shop.oreilly.com/product/0636920031123.do",
-					"venueUrl": "http://oreilly.com/"
+					"venueUrl": "http://oreilly.com/",
+					"author": []
 				},
 				{
 					"title": "Chapter in Smashing Book #3: Restyle, recode, reimagine, with CSS3",
 					"venue": "Smashing Magazine",
 					"date": "2012-04",
 					"url": "https://shop.smashingmagazine.com/smashing-book-3.html",
-					"venueUrl": "http://smashingmagazine.com/"
+					"venueUrl": "http://smashingmagazine.com/",
+					"author": [
+						"Lea Verou",
+						"David Storey"
+					]
 				}
 			]
 		},
@@ -1312,13 +1317,23 @@
 					"url": "https://dl.acm.org/citation.cfm?id=2998235",
 					"title": "Wikum: Bridging discussion forums and wikis using recursive summarization",
 					"venue": "CSCW 2017",
-					"date": "2017-02"
+					"date": "2017-02",
+					"author": [
+						"Amy X. Zhang",
+						"Lea Verou",
+						"David Karger"
+					]
 				},
 				{
 					"url": "https://dl.acm.org/citation.cfm?id=2984551",
 					"title": "Mavo: creating interactive data-driven web applications by authoring HTML",
 					"venue": "UIST 2016",
-					"date": "2016-10"
+					"date": "2016-10",
+					"author": [
+						"Lea Verou",
+						"Amy X. Zhang",
+						"David Karger"
+					]
 				}
 			]
 		},
@@ -1330,140 +1345,160 @@
 					"title": " Introducing Mavo: Create Web Apps Entirely By Writing HTML!",
 					"venueUrl": "https://smashingmagazine.com/",
 					"venue": "Smashing Magazine",
-					"date": "2018-05"
+					"date": "2018-05",
+					"author": []
 				},
 				{
 					"url": "https://coding.smashingmagazine.com/2017/02/designing-html-apis/",
 					"title": "HTML APIs: What They Are And How To Design A Good One",
 					"venueUrl": "https://smashingmagazine.com/",
 					"venue": "Smashing Magazine",
-					"date": "2017-02"
+					"date": "2017-02",
+					"author": []
 				},
 				{
 					"url": "https://coding.smashingmagazine.com/2015/07/designing-simple-pie-charts-with-css/",
 					"title": "Designing A Flexible, Maintainable CSS Pie Chart With SVG",
 					"venueUrl": "https://smashingmagazine.com/",
 					"venue": "Smashing Magazine",
-					"date": "2015-07"
+					"date": "2015-07",
+					"author": []
 				},
 				{
 					"title": "Hot in web standards: May-June 2013",
 					"venue": ".net magazine",
 					"date": "2013-07-03",
 					"url": "http://www.netmagazine.com/features/hot-web-standards-mayjune-2013",
-					"venueUrl": "http://www.netmagazine.com/"
+					"venueUrl": "http://www.netmagazine.com/",
+					"author": []
 				},
 				{
 					"title": "Hot in web standards: March-April 2013",
 					"venue": ".net magazine",
 					"date": "2013-05-01",
 					"url": "http://www.netmagazine.com/features/hot-web-standards-marchapril-2013",
-					"venueUrl": "http://www.netmagazine.com/"
+					"venueUrl": "http://www.netmagazine.com/",
+					"author": []
 				},
 				{
 					"title": "Hot in web standards: January-February 2013",
 					"venue": ".net magazine",
 					"date": "2013-03-13",
 					"url": "http://www.netmagazine.com/features/hot-web-standards-januaryfebruary-2013",
-					"venueUrl": "http://www.netmagazine.com/"
+					"venueUrl": "http://www.netmagazine.com/",
+					"author": []
 				},
 				{
 					"title": "Hot in web standards: November-December 2012",
 					"venue": ".net magazine",
 					"date": "2012-12-18",
 					"url": "http://www.netmagazine.com/features/hot-web-standards-novemberdecember-2012",
-					"venueUrl": "http://www.netmagazine.com/"
+					"venueUrl": "http://www.netmagazine.com/",
+					"author": []
 				},
 				{
 					"title": "Hot in web standards: September-October 2012",
 					"venue": ".net magazine",
 					"date": "2012-11-14",
 					"url": "http://www.netmagazine.com/features/hot-web-standards-septemberoctober-2012",
-					"venueUrl": "http://www.netmagazine.com/"
+					"venueUrl": "http://www.netmagazine.com/",
+					"author": []
 				},
 				{
 					"title": "Hot in web standards: July-August 2012",
 					"venue": ".net magazine",
 					"date": "2012-09-10",
 					"url": "http://www.netmagazine.com/features/hot-web-standards-julyaugust-2012",
-					"venueUrl": "http://www.netmagazine.com/"
+					"venueUrl": "http://www.netmagazine.com/",
+					"author": []
 				},
 				{
 					"title": "Hot in web standards: June 2012",
 					"venue": ".net magazine",
 					"date": "2012-07-09",
 					"url": "http://www.netmagazine.com/features/hot-web-standards-june-2012",
-					"venueUrl": "http://www.netmagazine.com/"
+					"venueUrl": "http://www.netmagazine.com/",
+					"author": []
 				},
 				{
 					"title": "Hot in web standards: May 2012",
 					"venue": ".net magazine",
 					"date": "2012-05-31",
 					"url": "http://www.netmagazine.com/features/hot-web-standards-css-blending-modes-and-filters-shadow-dom",
-					"venueUrl": "http://www.netmagazine.com/"
+					"venueUrl": "http://www.netmagazine.com/",
+					"author": []
 				},
 				{
 					"title": "The top 8 web standards myths, debunked",
 					"venue": ".net magazine",
 					"date": "2012-05-08",
 					"url": "http://www.netmagazine.com/features/top-8-web-standards-myths-debunked",
-					"venueUrl": "http://www.netmagazine.com/"
+					"venueUrl": "http://www.netmagazine.com/",
+					"author": []
 				},
 				{
 					"title": "Every Time You Call a Proprietary Feature “CSS3,” a Kitten Dies",
 					"venue": "A List Apart",
 					"date": "2012-02-14",
 					"url": "http://www.alistapart.com/articles/every-time-you-call-a-proprietary-feature-css3-a-kitten-dies/",
-					"venueUrl": "http://www.alistapart.com/"
+					"venueUrl": "http://www.alistapart.com/",
+					"author": []
 				},
 				{
 					"title": "CSS3 patterns, explained",
 					"venue": "24 ways",
 					"date": "2011-12-15",
 					"url": "http://24ways.org/2011/css3-patterns-explained",
-					"venueUrl": "http://24ways.org/"
+					"venueUrl": "http://24ways.org/",
+					"author": []
 				},
 				{
 					"title": "“But The Client Wants IE 6 Support!”",
 					"venue": "Smashing Magazine",
 					"date": "2011-11-03",
 					"url": "http://www.smashingmagazine.com/2011/11/03/%E2%80%9Cbut-the-client-wants-ie-6-support%E2%80%9D/",
-					"venueUrl": "http://smashingmagazine.com/"
+					"venueUrl": "http://smashingmagazine.com/",
+					"author": []
 				},
 				{
 					"title": "Optimizing Long Lists Of Yes/No Values With JavaScript",
 					"venue": "Smashing Magazine",
 					"date": "2011-10-19",
 					"url": "http://coding.smashingmagazine.com/2011/10/19/optimizing-long-lists-of-yesno-values-with-javascript/",
-					"venueUrl": "http://smashingmagazine.com/"
+					"venueUrl": "http://smashingmagazine.com/",
+					"author": []
 				},
 				{
 					"title": "PrefixFree: Break Free From CSS Prefix Hell",
 					"venue": "Smashing Magazine",
 					"date": "2011-10-12",
 					"url": "http://coding.smashingmagazine.com/2011/10/12/prefixfree-break-free-from-css-prefix-hell/",
-					"venueUrl": "http://smashingmagazine.com/"
+					"venueUrl": "http://smashingmagazine.com/",
+					"author": []
 				},
 				{
 					"title": "Help the community: Report browser bugs",
 					"venue": "Smashing Magazine",
 					"date": "2011-09-10",
 					"url": "http://coding.smashingmagazine.com/2011/09/07/help-the-community-report-browser-bugs/",
-					"venueUrl": "https://smashingmagazine.com/"
+					"venueUrl": "https://smashingmagazine.com/",
+					"author": []
 				},
 				{
 					"url": "https://24ways.org/2011/css3-patterns-explained/",
 					"title": "CSS3 Patterns, Explained",
 					"venueUrl": "https://24ways.org/2011/css3-patterns-explained/",
 					"venue": "24 Ways",
-					"date": "2011-12"
+					"date": "2011-12",
+					"author": []
 				},
 				{
 					"title": "Make your backgrounds shine",
 					"venue": ".net magazine",
 					"date": "2011-12-15",
 					"url": "http://www.netmagazine.com/news/issue-217-sale-now",
-					"venueUrl": "http://www.netmagazine.com/"
+					"venueUrl": "http://www.netmagazine.com/",
+					"author": []
 				}
 			]
 		}
