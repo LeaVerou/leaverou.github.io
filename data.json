@@ -1326,6 +1326,13 @@
 			"type": "Articles",
 			"publication": [
 				{
+					"url": "https://coding.smashingmagazine.com/2017/05/introducing-mavo/",
+					"title": " Introducing Mavo: Create Web Apps Entirely By Writing HTML!",
+					"venueUrl": "https://smashingmagazine.com/",
+					"venue": "Smashing Magazine",
+					"date": "2018-05"
+				},
+				{
 					"url": "https://coding.smashingmagazine.com/2017/02/designing-html-apis/",
 					"title": "HTML APIs: What They Are And How To Design A Good One",
 					"venueUrl": "https://smashingmagazine.com/",
