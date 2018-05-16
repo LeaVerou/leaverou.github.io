@@ -3,7 +3,7 @@
 		{
 			"talk": [
 				{
-					"title": "TBD",
+					"title": "Even More CSS Secrets",
 					"type": "Talk"
 				}
 			],
@@ -12,6 +12,19 @@
 			"date": "2018-06-26",
 			"city": "Toronto",
 			"country": "ca"
+		},
+		{
+			"talk": [
+				{
+					"title": "Even More CSS Secrets",
+					"type": "Talk"
+				}
+			],
+			"url": "http://frontendconf.ru/moscow-rit/2018/",
+			"name": "FrontendConf",
+			"date": "2018-05-28",
+			"city": "Moscow",
+			"country": "ru"
 		},
 		{
 			"talk": [
