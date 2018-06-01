@@ -7,6 +7,19 @@
 					"type": "Talk"
 				}
 			],
+			"url": "https://www.mirrorconf.com/",
+			"name": "MirrorConf",
+			"date": "2018-10-18",
+			"city": "Braga",
+			"country": "pt"
+		},
+		{
+			"talk": [
+				{
+					"title": "Even More CSS Secrets",
+					"type": "Talk"
+				}
+			],
 			"url": "https://smashingconf.com/toronto-2018/",
 			"name": "SmashingConf Toronto",
 			"date": "2018-06-26",
@@ -29,7 +42,7 @@
 		{
 			"talk": [
 				{
-					"title": "TBD",
+					"title": "Even More CSS Secrets",
 					"type": "Talk"
 				}
 			],
