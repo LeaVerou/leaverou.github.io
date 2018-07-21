@@ -7,11 +7,50 @@
 					"type": "Talk"
 				}
 			],
+			"url": "https://gdg-siberia.com/",
+			"name": "DevFest Siberia",
+			"date": "2018-11-23",
+			"city": "Novosibirsk",
+			"country": "ru"
+		},
+		{
+			"talk": [
+				{
+					"title": "TBD",
+					"type": "Talk"
+				}
+			],
+			"url": "http://www.frontmania.com",
+			"name": "FrontMania",
+			"date": "2018-11-16",
+			"city": "Utrecht",
+			"country": "nl"
+		},
+		{
+			"talk": [
+				{
+					"title": "Even More CSS Secrets",
+					"type": "Talk"
+				}
+			],
 			"url": "https://www.mirrorconf.com/",
 			"name": "MirrorConf",
 			"date": "2018-10-18",
 			"city": "Braga",
 			"country": "pt"
+		},
+		{
+			"talk": [
+				{
+					"title": "Even More CSS Secrets",
+					"type": "Keynote"
+				}
+			],
+			"url": "http://scotlandcss.com/",
+			"name": "ScotlandCSS",
+			"date": "2018-07-18",
+			"city": "Edinburgh",
+			"country": "scotland"
 		},
 		{
 			"talk": [
