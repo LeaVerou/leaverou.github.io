@@ -29,6 +29,19 @@
 		{
 			"talk": [
 				{
+					"title": "TBD",
+					"type": "Talk"
+				}
+			],
+			"url": "https://www.blendwebmix.com/en/",
+			"name": "BlendWebMix",
+			"date": "2018-10-24",
+			"city": "Lyon",
+			"country": "fr"
+		},
+		{
+			"talk": [
+				{
 					"title": "Even More CSS Secrets",
 					"type": "Talk"
 				}
