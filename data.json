@@ -9,14 +9,14 @@
 			],
 			"url": "https://gdg-siberia.com/",
 			"name": "DevFest Siberia",
-			"date": "2018-11-23",
+			"date": "2018-11-24",
 			"city": "Novosibirsk",
 			"country": "ru"
 		},
 		{
 			"talk": [
 				{
-					"title": "TBD",
+					"title": "Even More CSS Secrets",
 					"type": "Talk"
 				}
 			],
@@ -29,7 +29,7 @@
 		{
 			"talk": [
 				{
-					"title": "TBD",
+					"title": "Even More CSS Secrets",
 					"type": "Talk"
 				}
 			],
@@ -38,6 +38,20 @@
 			"date": "2018-10-24",
 			"city": "Lyon",
 			"country": "fr"
+		},
+		{
+			"talk": [
+				{
+					"title": "TBD",
+					"type": "Talk"
+				}
+			],
+			"url": "https://uist.acm.org/uist2018/",
+			"name": "ACM UIST 2018",
+			"date": "2018-10-16",
+			"city": "Berlin",
+			"country": "de",
+			"comment": "Top-tier academic conference on HCI"
 		},
 		{
 			"talk": [
@@ -234,6 +248,20 @@
 			"date": "2016-11-24",
 			"city": "Singapore",
 			"country": "sg"
+		},
+		{
+			"talk": [
+				{
+					"title": "Mavo: Creating Interactive Data-Driven Web Applications by Authoring HTML",
+					"type": "Talk"
+				}
+			],
+			"url": "https://uist.acm.org/uist2016",
+			"name": "ACM UIST 2016",
+			"date": "2016-10-18",
+			"city": "Tokyo",
+			"country": "jp",
+			"comment": "Top-tier academic conference on HCI"
 		},
 		{
 			"talk": [
