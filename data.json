@@ -3,6 +3,32 @@
 		{
 			"talk": [
 				{
+					"title": "TBD",
+					"type": "Talk"
+				}
+			],
+			"url": "https://2019.frontendne.co.uk/",
+			"name": "Frontend NE",
+			"date": "2019-04-03",
+			"city": "Newcastle",
+			"country": "gb"
+		},
+		{
+			"talk": [
+				{
+					"title": "TBD",
+					"type": "Talk"
+				}
+			],
+			"url": "http://kharkivcss.org/",
+			"name": "KharkivCSS",
+			"date": "2019-04-20",
+			"city": "Kharkiv",
+			"country": "ua"
+		},
+		{
+			"talk": [
+				{
 					"title": "Even More CSS Secrets",
 					"type": "Talk"
 				}
