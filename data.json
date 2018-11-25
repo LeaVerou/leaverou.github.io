@@ -7,11 +7,11 @@
 					"type": "Talk"
 				}
 			],
-			"url": "https://2019.frontendne.co.uk/",
-			"name": "Frontend NE",
-			"date": "2019-04-03",
-			"city": "Newcastle",
-			"country": "gb"
+			"url": "http://kharkivcss.org/",
+			"name": "KharkivCSS",
+			"date": "2019-04-20",
+			"city": "Kharkiv",
+			"country": "ua"
 		},
 		{
 			"talk": [
@@ -20,11 +20,11 @@
 					"type": "Talk"
 				}
 			],
-			"url": "http://kharkivcss.org/",
-			"name": "KharkivCSS",
-			"date": "2019-04-20",
-			"city": "Kharkiv",
-			"country": "ua"
+			"url": "https://2019.frontendne.co.uk/",
+			"name": "Frontend NE",
+			"date": "2019-04-03",
+			"city": "Newcastle",
+			"country": "gb"
 		},
 		{
 			"talk": [
@@ -55,20 +55,7 @@
 		{
 			"talk": [
 				{
-					"title": "Even More CSS Secrets",
-					"type": "Talk"
-				}
-			],
-			"url": "https://www.blendwebmix.com/en/",
-			"name": "BlendWebMix",
-			"date": "2018-10-24",
-			"city": "Lyon",
-			"country": "fr"
-		},
-		{
-			"talk": [
-				{
-					"title": "TBD",
+					"title": "Extending a Reactive Expression language with Data Update Actions for End-User Application Authoring",
 					"type": "Talk"
 				}
 			],
