@@ -5,6 +5,23 @@
 				{
 					"title": "TBD",
 					"type": "Talk"
+				},
+				{
+					"title": "CSS and SVG in 2019",
+					"type": "Workshop"
+				}
+			],
+			"url": "https://www.frontendunited.org/frontend-re-united",
+			"name": "Frontend United",
+			"date": "2019-05-16",
+			"city": "Utrecht",
+			"country": "nl"
+		},
+		{
+			"talk": [
+				{
+					"title": "TBD",
+					"type": "Talk"
 				}
 			],
 			"url": "http://kharkivcss.org/",
@@ -25,6 +42,19 @@
 			"date": "2019-04-03",
 			"city": "Newcastle",
 			"country": "gb"
+		},
+		{
+			"talk": [
+				{
+					"title": "Even More CSS Secrets",
+					"type": "Talk"
+				}
+			],
+			"url": "https://summit.ironhack.com/",
+			"name": "Ironhack Global Alumni Summit 2019",
+			"date": "2019-03-01",
+			"city": "Madrid",
+			"country": "es"
 		},
 		{
 			"talk": [
