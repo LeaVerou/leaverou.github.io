@@ -4,6 +4,19 @@
 			"talk": [
 				{
 					"title": "The Web Design Cheat Code: Using SVG to bridge CSS' gaps",
+					"type": "Talk"
+				}
+			],
+			"url": "https://fronteers.nl/congres/2019",
+			"name": "Fronteers 2019",
+			"date": "2019-10-04",
+			"city": "Amsterdam",
+			"country": "nl"
+		},
+		{
+			"talk": [
+				{
+					"title": "The Web Design Cheat Code: Using SVG to bridge CSS' gaps",
 					"type": "Keynote"
 				},
 				{
