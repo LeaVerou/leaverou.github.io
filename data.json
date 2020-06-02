@@ -1476,6 +1476,18 @@
 			"type": "Academic Peer-reviewed Papers",
 			"publication": [
 				{
+					"url": "https://dl.acm.org/citation.cfm?id=3242663",
+					"title": "Extending a Reactive Expression Language with Data Update Actions for End-User Application Authoring",
+					"author": [
+						"Lea Verou",
+						"Tarfah Alrashed",
+						"David Karger"
+					],
+					"venueUrl": "https://uist.acm.org/uist2018/",
+					"venue": "UIST 2018",
+					"date": "2018-10"
+				},
+				{
 					"url": "https://dl.acm.org/citation.cfm?id=2998235",
 					"title": "Wikum: Bridging discussion forums and wikis using recursive summarization",
 					"venue": "CSCW 2017",
@@ -1502,6 +1514,14 @@
 		{
 			"type": "Articles",
 			"publication": [
+				{
+					"url": "https://increment.com/frontend/a-users-guide-to-css-variables/",
+					"title": "A user’s guide to CSS variables",
+					"author": [],
+					"venueUrl": "https://increment.com/",
+					"venue": "Increment",
+					"date": "2020-05"
+				},
 				{
 					"url": "https://coding.smashingmagazine.com/2017/05/introducing-mavo/",
 					"title": " Introducing Mavo: Create Web Apps Entirely By Writing HTML!",
