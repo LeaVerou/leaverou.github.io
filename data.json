@@ -1445,6 +1445,124 @@
 			"name": "Multirange",
 			"description": "A tiny polyfill for HTML5 multi-handle sliders.",
 			"blogPost": "http://lea.verou.me/2016/05/introducing-multirange-a-tiny-polyfill-for-html5-two-handle-sliders/"
+		},
+		{
+			"url": "http://leaverou.github.io/awesomplete",
+			"image": "http://lea.verou.me/wp-content/uploads/2015/02/awesomplete-300x248.png",
+			"name": "Awesomplete",
+			"blogPost": "http://lea.verou.me/2015/02/awesomplete-2kb-autocomplete-with-zero-dependencies/"
+		},
+		{
+			"url": "http://lea.verou.me/wp-content/uploads/2013/06/Screen-Shot-2013-06-10-at-13.41.39-.png",
+			"image": "http://lea.verou.me/wp-content/uploads/2013/06/Screen-Shot-2013-06-10-at-13.41.39--300x221.png",
+			"name": "DPI love",
+			"blogPost": "http://lea.verou.me/2013/06/meet-dpi-lv-more-than-you-probably-wanted-to-know-about-screen-dpi/"
+		},
+		{
+			"url": "http://lea.verou.me/wp-content/uploads/2013/03/Screen-Shot-2013-03-24-at-17.45.38-.png",
+			"image": "http://lea.verou.me/wp-content/uploads/2013/03/Screen-Shot-2013-03-24-at-17.45.38-.png",
+			"name": "corner-shape preview",
+			"blogPost": "http://lea.verou.me/2013/03/preview-border-corner-shape-before-implementations/"
+		},
+		{
+			"url": "http://lea.verou.me/wp-content/uploads/2012/10/Screen-Shot-2012-10-14-at-06.08.41-.png",
+			"image": "http://lea.verou.me/wp-content/uploads/2012/10/Screen-Shot-2012-10-14-at-06.08.41--300x254.png",
+			"name": "Contrast Ratio",
+			"blogPost": "http://lea.verou.me/2012/10/easy-color-contrast-ratios/"
+		},
+		{
+			"url": "http://lea.verou.me/wp-content/uploads/2012/07/Screen-Shot-2012-07-31-at-18.31.22-.png",
+			"image": "http://lea.verou.me/wp-content/uploads/2012/07/Screen-Shot-2012-07-31-at-18.33.58--300x158.png",
+			"name": "Prism",
+			"blogPost": "http://lea.verou.me/2012/07/introducing-prism-an-awesome-new-syntax-highlighter/"
+		},
+		{
+			"url": "http://lea.verou.me/wp-content/uploads/2012/02/Screen-shot-2012-02-02-at-14.20.15-.png",
+			"image": "http://lea.verou.me/wp-content/uploads/2012/02/Screen-shot-2012-02-02-at-14.20.15--300x187.png",
+			"name": "The CSS3 Test",
+			"blogPost": "http://lea.verou.me/2012/02/exactly-how-much-css3-does-your-browser-support/"
+		},
+		{
+			"url": "http://lea.verou.me/wp-content/uploads/2011/12/Screen-shot-2011-12-14-at-23.32.02-.png",
+			"image": "http://lea.verou.me/wp-content/uploads/2011/12/Screen-shot-2011-12-14-at-23.32.02--300x183.png",
+			"name": "Dabblet",
+			"blogPost": "http://lea.verou.me/2011/12/introducing-dabblet-an-interactive-css-playground/"
+		},
+		{
+			"url": "http://lea.verou.me/wp-content/uploads/2011/10/Screen-shot-2011-10-30-at-08.54.38-.png",
+			"image": "http://lea.verou.me/wp-content/uploads/2011/10/Screen-shot-2011-10-30-at-08.54.38--300x187.png",
+			"name": "Animatable",
+			"blogPost": "http://lea.verou.me/2011/10/animatable-a-css-transitions-gallery/"
+		},
+		{
+			"url": "http://lea.verou.me/wp-content/uploads/2011/10/Screen-shot-2011-11-15-at-14.33.38-.png",
+			"image": "http://lea.verou.me/wp-content/uploads/2011/10/Screen-shot-2011-11-15-at-14.33.38--300x187.png",
+			"name": "-prefix-free",
+			"blogPost": "http://coding.smashingmagazine.com/2011/10/12/prefixfree-break-free-from-css-prefix-hell/"
+		},
+		{
+			"url": "http://lea.verou.me/wp-content/uploads/2011/09/Screen-shot-2011-09-14-at-10.33.11-.png",
+			"image": "http://lea.verou.me/wp-content/uploads/2011/09/Screen-shot-2011-09-14-at-10.33.11--300x204.png",
+			"name": "cubic-bezier.com",
+			"blogPost": "http://lea.verou.me/2011/09/a-better-tool-for-cubic-bezier-easing/"
+		},
+		{
+			"image": "http://lea.verou.me/wp-content/uploads/2011/09/shot1-300x200.png",
+			"name": "CSS.coloratum",
+			"blogPost": "http://lea.verou.me/2011/09/css-coloratum-convert-and-share-css-colors/"
+		},
+		{
+			"url": "http://lea.verou.me/wp-content/uploads/2011/04/csspatterns.png",
+			"image": "http://lea.verou.me/wp-content/uploads/2011/04/csspatterns-300x177.png",
+			"name": "CSS3 patterns gallery",
+			"blogPost": "http://lea.verou.me/2011/04/css3-patterns-gallery-and-a-new-pattern/"
+		},
+		{
+			"url": "http://lea.verou.me/wp-content/uploads/2011/09/Screen-shot-2011-11-15-at-14.57.17-.png",
+			"image": "http://lea.verou.me/wp-content/uploads/2011/09/Screen-shot-2011-11-15-at-14.57.17--300x187.png",
+			"name": "Chainvas",
+			"blogPost": "http://lea.verou.me/2011/09/major-update-to-chainvas-modularity-a-client-side-build-script-more/"
+		},
+		{
+			"image": "http://lea.verou.me/wp-content/uploads/2011/03/cssgradientsplease-screenshot-300x148.png",
+			"name": "CSS gradients please!",
+			"blogPost": "http://lea.verou.me/2011/03/convert-standard-gradient-syntax-to-webkit-gradient-and-others/"
+		},
+		{
+			"url": "http://lea.verou.me/wp-content/uploads/2010/03/Screen-shot-2011-09-20-at-14.13.13-.png",
+			"image": "http://lea.verou.me/wp-content/uploads/2010/03/Screen-shot-2011-09-20-at-14.13.13--300x187.png",
+			"name": "CSS3 structural pseudo-class selector tester",
+			"blogPost": "http://lea.verou.me/2010/03/css3-structural-pseudo-class-selector-tester/"
+		},
+		{
+			"url": "http://lea.verou.me/wp-content/uploads/2011/07/Screen-shot-2011-11-15-at-15.02.37-.png",
+			"image": "http://lea.verou.me/wp-content/uploads/2011/07/Screen-shot-2011-11-15-at-15.02.37--300x219.png",
+			"name": "HTML5 <progress> polyfill",
+			"blogPost": "http://lea.verou.me/2011/07/a-polyfill-for-html5-progress-element-the-obsessive-perfectionist-way/"
+		},
+		{
+			"url": "http://www.flickr.com/photos/leaverou/5691500699/in/photostream",
+			"image": "http://lea.verou.me/wp-content/uploads/2011/05/strongly-typed-300x210.png",
+			"name": "StronglyTyped",
+			"blogPost": "http://lea.verou.me/2011/05/strongly-typed-javascript/"
+		},
+		{
+			"url": "http://lea.verou.me/wp-content/uploads/2011/02/incrementable-demo.png",
+			"image": "http://lea.verou.me/wp-content/uploads/2011/02/incrementable-demo-300x202.png",
+			"name": "Incrementable",
+			"blogPost": "http://lea.verou.me/2011/02/incrementable-length-values-in-text-fields/"
+		},
+		{
+			"url": "http://lea.verou.me/wp-content/uploads/2010/10/csss-logo.jpg",
+			"image": "http://lea.verou.me/wp-content/uploads/2010/10/csss-logo-300x187.jpg",
+			"name": "CSSS",
+			"blogPost": "http://lea.verou.me/2010/10/my-ft2010-slides-and-csss-my-presentation-framework/"
+		},
+		{
+			"url": "http://lea.verou.me/wp-content/uploads/2010/12/Screen-shot-2011-11-15-at-15.19.14-.png",
+			"image": "http://lea.verou.me/wp-content/uploads/2010/12/Screen-shot-2011-11-15-at-15.19.14--300x187.png",
+			"name": "rgba.php",
+			"blogPost": "http://lea.verou.me/2010/12/rgba-php-v1-2-improved-url-syntax-now-at-github/"
 		}
 	],
 	"publicationType": [
