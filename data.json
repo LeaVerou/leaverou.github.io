@@ -1297,7 +1297,7 @@
 			"date": "2011-09-09",
 			"city": "Zurich",
 			"country": "ch",
-			"feedback": "http://lea.verou.me/2011/09/my-experience-from-frontendconf-zurich/"
+			"feedback": "https://lea.verou.me/2011/09/my-experience-from-frontendconf-zurich/"
 		},
 		{
 			"talk": [
@@ -1311,7 +1311,7 @@
 			"name": "CSS Summit 2011",
 			"date": "2011-07-26",
 			"country": "us",
-			"feedback": "http://lea.verou.me/2011/08/my-experience-from-the-css-summit-2011/"
+			"feedback": "https://lea.verou.me/2011/08/my-experience-from-the-css-summit-2011/"
 		},
 		{
 			"talk": [
@@ -1325,7 +1325,7 @@
 			"date": "2011-05-28",
 			"city": "London",
 			"country": "gb",
-			"feedback": "http://lea.verou.me/2011/06/my-experience-from-web-directions-media-standards-next/"
+			"feedback": "https://lea.verou.me/2011/06/my-experience-from-web-directions-media-standards-next/"
 		},
 		{
 			"talk": [
@@ -1340,7 +1340,7 @@
 			"date": "2011-05-26",
 			"city": "London",
 			"country": "gb",
-			"feedback": "http://lea.verou.me/2011/06/my-experience-from-web-directions-media-standards-next/"
+			"feedback": "https://lea.verou.me/2011/06/my-experience-from-web-directions-media-standards-next/"
 		},
 		{
 			"talk": [
@@ -1359,7 +1359,7 @@
 			"date": "2011-05-10",
 			"city": "Stockholm",
 			"country": "se",
-			"feedback": "http://lea.verou.me/2011/05/my-experience-from-geek-meet/"
+			"feedback": "https://lea.verou.me/2011/05/my-experience-from-geek-meet/"
 		},
 		{
 			"talk": [
@@ -1407,7 +1407,7 @@
 			"country": "pl",
 			"comment": "My slides became quite popular and were featured in the homepages of SlideShare, reddit, YCombinator Hacker News and many other websites. Christian Heilmann praised it on <a href=\"http://www.wait-till-i.com/2010/10/25/fronttrends2010-in-warsaw-poland-my-impressions-slides-and-audio/\">his review</a>",
 			"days": 2,
-			"details": "http://lea.verou.me/2010/10/my-ft2010-slides-and-csss-my-presentation-framework/"
+			"details": "https://lea.verou.me/2010/10/my-ft2010-slides-and-csss-my-presentation-framework/"
 		},
 		{
 			"talk": [
@@ -1427,142 +1427,192 @@
 	"project": [
 		{
 			"url": "https://mavo.io",
-			"image": "http://mavo.io/logo.svg",
+			"image": "https://mavo.io/logo.svg",
 			"name": "Mavo",
 			"description": "Mavo helps you turn your static HTML into reactive web applications without a single line of programming code and no server backend. \nDeveloped in the Haystack Group at MIT CSAIL and led by Lea Verou.",
-			"blogPost": "http://lea.verou.me/2017/05/introducing-mavo-create-web-apps-entirely-by-writing-html/"
+			"blogPost": "https://lea.verou.me/2017/05/introducing-mavo-create-web-apps-entirely-by-writing-html/",
+			"repo": "mavoweb/mavo"
 		},
 		{
 			"url": "http://blissfuljs.com/",
-			"image": "http://lea.verou.me/wp-content/uploads/2015/12/Screen-Shot-2015-12-04-at-16.59.39-300x127.png",
+			"image": "https://lea.verou.me/wp-content/uploads/2015/12/Screen-Shot-2015-12-04-at-16.59.39-300x127.png",
 			"name": "Bliss",
 			"description": "Want to use Vanilla JS but find native APIs a bit unwieldy? Bliss is for you.",
-			"blogPost": "http://lea.verou.me/2015/12/introducing-bliss-a-3kb-library-for-happier-vanilla-js/"
+			"blogPost": "https://lea.verou.me/2015/12/introducing-bliss-a-3kb-library-for-happier-vanilla-js/",
+			"repo": "leaverou/bliss"
 		},
 		{
-			"url": "http://leaverou.github.io/multirange/",
-			"image": "http://lea.verou.me/wp-content/uploads/2016/05/multirange.png",
+			"url": "https://leaverou.github.io/stretchy/",
+			"image": "https://lea.verou.me/wp-content/uploads/2015/07/Screen-Shot-2015-07-25-at-18.40.13--300x204.png",
+			"name": "Stretchy",
+			"description": "Form element autosizing, the way it should be.",
+			"blogPost": "https://lea.verou.me/2015/07/stretchy-form-element-autosizing-the-way-it-should-be",
+			"repo": "leaverou/stretchy"
+		},
+		{
+			"url": "https://leaverou.github.io/multirange/",
+			"image": "https://lea.verou.me/wp-content/uploads/2016/05/multirange.png",
 			"name": "Multirange",
 			"description": "A tiny polyfill for HTML5 multi-handle sliders.",
-			"blogPost": "http://lea.verou.me/2016/05/introducing-multirange-a-tiny-polyfill-for-html5-two-handle-sliders/"
+			"blogPost": "https://lea.verou.me/2016/05/introducing-multirange-a-tiny-polyfill-for-html5-two-handle-sliders/",
+			"repo": "leaverou/multirange"
 		},
 		{
-			"url": "http://leaverou.github.io/awesomplete",
-			"image": "http://lea.verou.me/wp-content/uploads/2015/02/awesomplete-300x248.png",
+			"url": "https://leaverou.github.io/awesomplete",
+			"image": "https://lea.verou.me/wp-content/uploads/2015/02/awesomplete-300x248.png",
 			"name": "Awesomplete",
-			"blogPost": "http://lea.verou.me/2015/02/awesomplete-2kb-autocomplete-with-zero-dependencies/"
+			"description": "Ultra lightweight, customizable, simple autocomplete widget with zero dependencies",
+			"blogPost": "https://lea.verou.me/2015/02/awesomplete-2kb-autocomplete-with-zero-dependencies/",
+			"repo": "leaverou/awesomplete"
 		},
 		{
-			"url": "http://lea.verou.me/wp-content/uploads/2013/06/Screen-Shot-2013-06-10-at-13.41.39-.png",
-			"image": "http://lea.verou.me/wp-content/uploads/2013/06/Screen-Shot-2013-06-10-at-13.41.39--300x221.png",
+			"url": "https://dpi.lv",
+			"image": "https://lea.verou.me/wp-content/uploads/2013/06/Screen-Shot-2013-06-10-at-13.41.39--300x221.png",
 			"name": "DPI love",
-			"blogPost": "http://lea.verou.me/2013/06/meet-dpi-lv-more-than-you-probably-wanted-to-know-about-screen-dpi/"
+			"description": "More than you probably wanted to know about screen DPI.",
+			"blogPost": "https://lea.verou.me/2013/06/meet-dpi-lv-more-than-you-probably-wanted-to-know-about-screen-dpi/",
+			"repo": "leaverou/dpi"
 		},
 		{
-			"url": "http://lea.verou.me/wp-content/uploads/2013/03/Screen-Shot-2013-03-24-at-17.45.38-.png",
-			"image": "http://lea.verou.me/wp-content/uploads/2013/03/Screen-Shot-2013-03-24-at-17.45.38-.png",
+			"url": "https://leaverou.github.io/corner-shape",
+			"image": "https://lea.verou.me/wp-content/uploads/2013/03/Screen-Shot-2013-03-24-at-17.45.38-.png",
 			"name": "corner-shape preview",
-			"blogPost": "http://lea.verou.me/2013/03/preview-border-corner-shape-before-implementations/"
+			"description": "Preview the corner-shape property before it’s implemented in browsers, through SVG.",
+			"blogPost": "https://lea.verou.me/2013/03/preview-border-corner-shape-before-implementations/",
+			"repo": "leaverou/corner-shape"
 		},
 		{
-			"url": "http://lea.verou.me/wp-content/uploads/2012/10/Screen-Shot-2012-10-14-at-06.08.41-.png",
-			"image": "http://lea.verou.me/wp-content/uploads/2012/10/Screen-Shot-2012-10-14-at-06.08.41--300x254.png",
+			"url": "https://contrast-ratio.com",
+			"image": "https://lea.verou.me/wp-content/uploads/2012/10/Screen-Shot-2012-10-14-at-06.08.41--300x254.png",
 			"name": "Contrast Ratio",
-			"blogPost": "http://lea.verou.me/2012/10/easy-color-contrast-ratios/"
+			"description": "Contrast Ratio is a modern tool for testing whether a combination of colors passes WCAG 2.0. It accepts any CSS color the browser accepts, including semi-transparent colors, color keywords, HSL(A) colors and the like. You can also share color combinations with others by just sharing the current URL.",
+			"blogPost": "https://lea.verou.me/2012/10/easy-color-contrast-ratios/",
+			"repo": "leaverou/contrast-ratio"
 		},
 		{
-			"url": "http://lea.verou.me/wp-content/uploads/2012/07/Screen-Shot-2012-07-31-at-18.31.22-.png",
-			"image": "http://lea.verou.me/wp-content/uploads/2012/07/Screen-Shot-2012-07-31-at-18.33.58--300x158.png",
+			"url": "https://prismjs.com",
+			"image": "https://lea.verou.me/wp-content/uploads/2012/07/Screen-Shot-2012-07-31-at-18.33.58--300x158.png",
 			"name": "Prism",
-			"blogPost": "http://lea.verou.me/2012/07/introducing-prism-an-awesome-new-syntax-highlighter/"
+			"description": "A lightweight, extensible syntax highlighter, built with modern web standards in mind. Pretty much my most successful project, used in a number of high profile websites.",
+			"blogPost": "https://lea.verou.me/2012/07/introducing-prism-an-awesome-new-syntax-highlighter/",
+			"repo": "prismjs/prism"
 		},
 		{
-			"url": "http://lea.verou.me/wp-content/uploads/2012/02/Screen-shot-2012-02-02-at-14.20.15-.png",
-			"image": "http://lea.verou.me/wp-content/uploads/2012/02/Screen-shot-2012-02-02-at-14.20.15--300x187.png",
+			"url": "https://css3test.com",
+			"image": "https://lea.verou.me/wp-content/uploads/2012/02/Screen-shot-2012-02-02-at-14.20.15--300x187.png",
 			"name": "The CSS3 Test",
-			"blogPost": "http://lea.verou.me/2012/02/exactly-how-much-css3-does-your-browser-support/"
+			"description": "Exactly how much CSS3 does your browser support?",
+			"blogPost": "https://lea.verou.me/2012/02/exactly-how-much-css3-does-your-browser-support/",
+			"repo": "leaverou/css3test"
 		},
 		{
-			"url": "http://lea.verou.me/wp-content/uploads/2011/12/Screen-shot-2011-12-14-at-23.32.02-.png",
-			"image": "http://lea.verou.me/wp-content/uploads/2011/12/Screen-shot-2011-12-14-at-23.32.02--300x183.png",
+			"url": "https://dabblet.com",
+			"image": "https://lea.verou.me/wp-content/uploads/2011/12/Screen-shot-2011-12-14-at-23.32.02--300x183.png",
 			"name": "Dabblet",
-			"blogPost": "http://lea.verou.me/2011/12/introducing-dabblet-an-interactive-css-playground/"
+			"description": "An interactive CSS playground. Was quite successful for a few years, with thousands of visitors every day. Pioneered using Github Gists as a storage backend, and its inline previewers for various value types predate similar features in today's editors.",
+			"blogPost": "https://lea.verou.me/2011/12/introducing-dabblet-an-interactive-css-playground/",
+			"repo": "leaverou/dabblet"
 		},
 		{
-			"url": "http://lea.verou.me/wp-content/uploads/2011/10/Screen-shot-2011-10-30-at-08.54.38-.png",
-			"image": "http://lea.verou.me/wp-content/uploads/2011/10/Screen-shot-2011-10-30-at-08.54.38--300x187.png",
+			"url": "https://leaverou.github.io/animatable",
+			"image": "https://lea.verou.me/wp-content/uploads/2011/10/Screen-shot-2011-10-30-at-08.54.38--300x187.png",
 			"name": "Animatable",
-			"blogPost": "http://lea.verou.me/2011/10/animatable-a-css-transitions-gallery/"
+			"description": "A CSS transitions gallery that shows what's possible with even the most basic of transitions: one property, two values.",
+			"blogPost": "https://lea.verou.me/2011/10/animatable-a-css-transitions-gallery/",
+			"repo": "leaverou/animatable"
 		},
 		{
-			"url": "http://lea.verou.me/wp-content/uploads/2011/10/Screen-shot-2011-11-15-at-14.33.38-.png",
-			"image": "http://lea.verou.me/wp-content/uploads/2011/10/Screen-shot-2011-11-15-at-14.33.38--300x187.png",
+			"url": "https://leaverou.github.io/prefixfree",
+			"image": "https://lea.verou.me/wp-content/uploads/2011/10/Screen-shot-2011-11-15-at-14.33.38--300x187.png",
 			"name": "-prefix-free",
-			"blogPost": "http://coding.smashingmagazine.com/2011/10/12/prefixfree-break-free-from-css-prefix-hell/"
+			"description": "-prefix-free is a library that allows you to write standard, prefix-less CSS and have the necessary prefixes added on runtime. It uses feature detection for almost everything.",
+			"blogPost": "https://coding.smashingmagazine.com/2011/10/12/prefixfree-break-free-from-css-prefix-hell/",
+			"repo": "leaverou/prefixfree"
 		},
 		{
-			"url": "http://lea.verou.me/wp-content/uploads/2011/09/Screen-shot-2011-09-14-at-10.33.11-.png",
-			"image": "http://lea.verou.me/wp-content/uploads/2011/09/Screen-shot-2011-09-14-at-10.33.11--300x204.png",
+			"url": "https://cubic-bezier.com",
+			"image": "https://lea.verou.me/wp-content/uploads/2011/09/Screen-shot-2011-09-14-at-10.33.11--300x204.png",
 			"name": "cubic-bezier.com",
-			"blogPost": "http://lea.verou.me/2011/09/a-better-tool-for-cubic-bezier-easing/"
+			"description": "A tool that helps you work with the easing functions of CSS3 transitions &amp; animations and share them with others.",
+			"blogPost": "https://lea.verou.me/2011/09/a-better-tool-for-cubic-bezier-easing/",
+			"repo": "leaverou/cubic-bezier"
 		},
 		{
-			"image": "http://lea.verou.me/wp-content/uploads/2011/09/shot1-300x200.png",
-			"name": "CSS.coloratum",
-			"blogPost": "http://lea.verou.me/2011/09/css-coloratum-convert-and-share-css-colors/"
+			"url": "https://leaverou.github.io/css-colors/",
+			"image": "https://lea.verou.me/wp-content/uploads/2011/09/shot1-300x200.png",
+			"name": "CSS Colors",
+			"description": "A tool that helps you convert between the different CSS-accepted color formats (including name keywords) as well as share them with others.",
+			"blogPost": "https://lea.verou.me/2011/09/css-coloratum-convert-and-share-css-colors/",
+			"repo": "LeaVerou/css-colors"
 		},
 		{
-			"url": "http://lea.verou.me/wp-content/uploads/2011/04/csspatterns.png",
-			"image": "http://lea.verou.me/wp-content/uploads/2011/04/csspatterns-300x177.png",
+			"url": "https://lea.verou.me/css3patterns",
+			"image": "https://lea.verou.me/wp-content/uploads/2011/04/csspatterns-300x177.png",
 			"name": "CSS3 patterns gallery",
-			"blogPost": "http://lea.verou.me/2011/04/css3-patterns-gallery-and-a-new-pattern/"
+			"description": "An interactive gallery that demonstrates what's possible with just CSS gradients. It also allows you to edit the code, to experiment with gradients yourself.",
+			"blogPost": "https://lea.verou.me/2011/04/css3-patterns-gallery-and-a-new-pattern/",
+			"repo": "LeaVerou/css3patterns"
 		},
 		{
-			"url": "http://lea.verou.me/wp-content/uploads/2011/09/Screen-shot-2011-11-15-at-14.57.17-.png",
-			"image": "http://lea.verou.me/wp-content/uploads/2011/09/Screen-shot-2011-11-15-at-14.57.17--300x187.png",
+			"url": "https://leaverou.github.io/chainvas/",
+			"image": "https://lea.verou.me/wp-content/uploads/2011/09/Screen-shot-2011-11-15-at-14.57.17--300x187.png",
 			"name": "Chainvas",
-			"blogPost": "http://lea.verou.me/2011/09/major-update-to-chainvas-modularity-a-client-side-build-script-more/"
+			"description": "Chainvas is a tiny generic chaining library that can make any API's methods chainable (like jQuery). Official plugins for the DOM and the Canvas API included.",
+			"blogPost": "https://lea.verou.me/2011/09/major-update-to-chainvas-modularity-a-client-side-build-script-more/",
+			"repo": "leaverou/chainvas"
 		},
 		{
-			"image": "http://lea.verou.me/wp-content/uploads/2011/03/cssgradientsplease-screenshot-300x148.png",
+			"url": "https://lea.verou.me/demos/cssgradientsplease/",
+			"image": "https://lea.verou.me/wp-content/uploads/2011/03/cssgradientsplease-screenshot-300x148.png",
 			"name": "CSS gradients please!",
-			"blogPost": "http://lea.verou.me/2011/03/convert-standard-gradient-syntax-to-webkit-gradient-and-others/"
+			"description": "A tool that converts the standard gradient syntax to <code>-webkit-gradient</code> and adds the rest of the prefixes",
+			"blogPost": "https://lea.verou.me/2011/03/convert-standard-gradient-syntax-to-webkit-gradient-and-others/"
 		},
 		{
-			"url": "http://lea.verou.me/wp-content/uploads/2010/03/Screen-shot-2011-09-20-at-14.13.13-.png",
-			"image": "http://lea.verou.me/wp-content/uploads/2010/03/Screen-shot-2011-09-20-at-14.13.13--300x187.png",
+			"url": "https://lea.verou.me/demos/nth.html",
+			"image": "https://lea.verou.me/wp-content/uploads/2010/03/Screen-shot-2011-09-20-at-14.13.13--300x187.png",
 			"name": "CSS3 structural pseudo-class selector tester",
-			"blogPost": "http://lea.verou.me/2010/03/css3-structural-pseudo-class-selector-tester/"
+			"description": "A tool that helps you learn how the :nth-whatever() CSS3 pseudo-classes work.",
+			"blogPost": "https://lea.verou.me/2010/03/css3-structural-pseudo-class-selector-tester/"
 		},
 		{
-			"url": "http://lea.verou.me/wp-content/uploads/2011/07/Screen-shot-2011-11-15-at-15.02.37-.png",
-			"image": "http://lea.verou.me/wp-content/uploads/2011/07/Screen-shot-2011-11-15-at-15.02.37--300x219.png",
+			"url": "https://lea.verou.me/polyfills/progress/",
+			"image": "https://lea.verou.me/wp-content/uploads/2011/07/Screen-shot-2011-11-15-at-15.02.37--300x219.png",
 			"name": "HTML5 <progress> polyfill",
-			"blogPost": "http://lea.verou.me/2011/07/a-polyfill-for-html5-progress-element-the-obsessive-perfectionist-way/"
+			"description": "A very thorough (perhaps too thorough) polyfill for the HTML5 &lt;progress&gt; element.",
+			"blogPost": "https://lea.verou.me/2011/07/a-polyfill-for-html5-progress-element-the-obsessive-perfectionist-way/",
+			"repo": "leaverou/html5-progress-polyfill"
 		},
 		{
-			"url": "http://www.flickr.com/photos/leaverou/5691500699/in/photostream",
-			"image": "http://lea.verou.me/wp-content/uploads/2011/05/strongly-typed-300x210.png",
+			"url": "https://github.com/leaverou/stronglytyped/",
+			"image": "https://lea.verou.me/wp-content/uploads/2011/05/strongly-typed-300x210.png",
 			"name": "StronglyTyped",
-			"blogPost": "http://lea.verou.me/2011/05/strongly-typed-javascript/"
+			"description": "A library for constants and strongly typed variables in JavaScript.",
+			"blogPost": "https://lea.verou.me/2011/05/strongly-typed-javascript/",
+			"repo": "leaverou/stronglytyped"
 		},
 		{
-			"url": "http://lea.verou.me/wp-content/uploads/2011/02/incrementable-demo.png",
-			"image": "http://lea.verou.me/wp-content/uploads/2011/02/incrementable-demo-300x202.png",
+			"url": "https://leaverou.github.io/Incrementable/",
+			"image": "https://lea.verou.me/wp-content/uploads/2011/02/incrementable-demo-300x202.png",
 			"name": "Incrementable",
-			"blogPost": "http://lea.verou.me/2011/02/incrementable-length-values-in-text-fields/"
+			"description": "A script that enables incrementing/decrementing multiple numeric values in textfields with the keyboard arrow keys.",
+			"blogPost": "https://lea.verou.me/2011/02/incrementable-length-values-in-text-fields/",
+			"repo": "leaverou/incrementable"
 		},
 		{
-			"url": "http://lea.verou.me/wp-content/uploads/2010/10/csss-logo.jpg",
-			"image": "http://lea.verou.me/wp-content/uploads/2010/10/csss-logo-300x187.jpg",
-			"name": "CSSS",
-			"blogPost": "http://lea.verou.me/2010/10/my-ft2010-slides-and-csss-my-presentation-framework/"
+			"url": "https://inspirejs.org",
+			"image": "https://lea.verou.me/wp-content/uploads/2010/10/csss-logo-300x187.jpg",
+			"name": "Inspire.js",
+			"description": "My slide deck framework, built exclusively with open web technologies. Includes plugins for editable CSS regions, syntax hightlighting and more. Originally released under the name CSSS in 2010, rewritten in 2018 and renamed to Inspire.js",
+			"blogPost": "https://lea.verou.me/2010/10/my-ft2010-slides-and-csss-my-presentation-framework/",
+			"repo": "leaverou/inspire.js"
 		},
 		{
-			"url": "http://lea.verou.me/wp-content/uploads/2010/12/Screen-shot-2011-11-15-at-15.19.14-.png",
-			"image": "http://lea.verou.me/wp-content/uploads/2010/12/Screen-shot-2011-11-15-at-15.19.14--300x187.png",
+			"url": "https://lea.verou.me/rgba.php/",
+			"image": "https://lea.verou.me/wp-content/uploads/2010/12/Screen-shot-2011-11-15-at-15.19.14--300x187.png",
 			"name": "rgba.php",
-			"blogPost": "http://lea.verou.me/2010/12/rgba-php-v1-2-improved-url-syntax-now-at-github/"
+			"description": "A server-side script that automatically generates semi-transparent PNGs to be used as fallbacks for RGBA colors.",
+			"blogPost": "https://lea.verou.me/2010/12/rgba-php-v1-2-improved-url-syntax-now-at-github/"
 		}
 	],
 	"publicationType": [
@@ -1574,7 +1624,7 @@
 					"venue": "O’Reilly Media",
 					"date": "2015-05",
 					"url": "http://shop.oreilly.com/product/0636920031123.do",
-					"venueUrl": "http://oreilly.com/",
+					"venueUrl": "https://oreilly.com/",
 					"author": []
 				},
 				{
@@ -1582,7 +1632,7 @@
 					"venue": "Smashing Magazine",
 					"date": "2012-04",
 					"url": "https://shop.smashingmagazine.com/smashing-book-3.html",
-					"venueUrl": "http://smashingmagazine.com/",
+					"venueUrl": "https://smashingmagazine.com/",
 					"author": [
 						"Lea Verou",
 						"David Storey"
