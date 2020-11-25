@@ -3,6 +3,18 @@
 		{
 			"talk": [
 				{
+					"title": "JS UX",
+					"type": "Keynote"
+				}
+			],
+			"url": "https://events.codemotion.com/conferences/online/2020/online-tech-conference-italian-edition/",
+			"name": "Codemotion Italia",
+			"date": "2020-11-25",
+			"country": "code"
+		},
+		{
+			"talk": [
+				{
 					"title": "The Web Design Cheat Code: Using SVG to bridge CSS' gaps",
 					"type": "Talk"
 				}
