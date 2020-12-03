@@ -1650,7 +1650,8 @@
 						"David Storey"
 					]
 				}
-			]
+			],
+			"id": "books"
 		},
 		{
 			"type": "Academic Peer-reviewed Papers",
@@ -1689,7 +1690,8 @@
 						"David Karger"
 					]
 				}
-			]
+			],
+			"id": "research"
 		},
 		{
 			"type": "Articles",
@@ -1862,7 +1864,8 @@
 					"venueUrl": "http://www.netmagazine.com/",
 					"author": []
 				}
-			]
+			],
+			"id": "articles"
 		}
 	]
 }
