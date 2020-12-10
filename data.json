@@ -1867,5 +1867,16 @@
 			],
 			"id": "articles"
 		}
+	],
+	"newsletter": [
+		{
+			"name": "CSS Weekly",
+			"id": "css-weekly",
+			"issueUrl": "https://css-weekly.com/issue-",
+			"issue": [
+				"6",
+				"38"
+			]
+		}
 	]
 }
