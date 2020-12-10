@@ -1893,6 +1893,21 @@
 				"422",
 				"431"
 			]
+		},
+		{
+			"name": "Javascript Weekly",
+			"id": "javascript-weekly",
+			"issueUrl": "https://javascriptweekly.com/issues/",
+			"issue": [
+				"230",
+				"262",
+				"443",
+				"490",
+				"494",
+				"507",
+				"508",
+				"515"
+			]
 		}
 	]
 }
