@@ -1947,6 +1947,18 @@
 				"16",
 				"18"
 			]
+		},
+		{
+			"url": "https://www.smashingmagazine.com/the-smashing-newsletter/",
+			"name": "Smashing Newsletter",
+			"id": "smashing-newsletter",
+			"issueUrl": "https://www.smashingmagazine.com/the-smashing-newsletter/smashing-newsletter-issue-",
+			"issue": [
+				"50",
+				"165",
+				"257",
+				"276"
+			]
 		}
 	]
 }
