@@ -1892,7 +1892,8 @@
 				"419",
 				"422",
 				"431"
-			]
+			],
+			"url": "https://css-weekly.com"
 		},
 		{
 			"name": "Javascript Weekly",
@@ -1907,6 +1908,44 @@
 				"507",
 				"508",
 				"515"
+			],
+			"url": "https://javascriptweekly.com"
+		},
+		{
+			"url": "https://frontendfoc.us/",
+			"name": "Frontend Focus",
+			"id": "frontend-focus",
+			"issueUrl": "https://frontendfoc.us/issues/",
+			"issue": [
+				"195",
+				"199",
+				"242",
+				"258",
+				"276",
+				"290",
+				"340",
+				"341",
+				"359",
+				"437",
+				"443",
+				"449",
+				"451",
+				"460",
+				"462",
+				"468"
+			]
+		},
+		{
+			"url": "https://ui.dev",
+			"name": "UI.dev",
+			"id": "uidev",
+			"issueUrl": "https://ui.dev/newsletters/bytes/",
+			"issue": [
+				"2",
+				"6",
+				"15",
+				"16",
+				"18"
 			]
 		}
 	]
