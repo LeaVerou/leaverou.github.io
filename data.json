@@ -1697,6 +1697,14 @@
 			"type": "Articles",
 			"publication": [
 				{
+					"url": "https://css-tricks.com/how-the-web-is-really-built/",
+					"title": "How the Web is really built",
+					"author": [],
+					"venueUrl": "https://css-tricks.com/",
+					"venue": "CSS-Tricks",
+					"date": "2020-12"
+				},
+				{
 					"url": "https://almanac.httparchive.org/en/2020/css",
 					"title": "CSS Chapter",
 					"author": [
