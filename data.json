@@ -1697,6 +1697,18 @@
 			"type": "Articles",
 			"publication": [
 				{
+					"url": "https://almanac.httparchive.org/en/2020/css",
+					"title": "CSS Chapter",
+					"author": [
+						"Lea Verou",
+						"Chris Lilley",
+						"Rachel Andrew"
+					],
+					"venueUrl": "https://almanac.httparchive.org/en/2020/",
+					"venue": "Web Almanac 2020",
+					"date": "2020-12"
+				},
+				{
 					"url": "https://increment.com/frontend/a-users-guide-to-css-variables/",
 					"title": "A user’s guide to CSS variables",
 					"author": [],
