@@ -1654,6 +1654,68 @@
 			"id": "books"
 		},
 		{
+			"type": "Specifications",
+			"id": "specifications",
+			"publication": [
+				{
+					"url": "https://www.w3.org/TR/css-color-5/",
+					"title": "CSS Color Module Level 5",
+					"author": [
+						"Chris Lilley",
+						"Una Kravets",
+						"Lea Verou",
+						"Adam Argyle"
+					],
+					"venueUrl": "https://w3.org",
+					"venue": "W3C"
+				},
+				{
+					"url": "https://drafts.csswg.org/css-color-4/",
+					"title": "CSS Color Module Level 4",
+					"author": [
+						"Tab Atkins Jr.",
+						"Chris Lilley",
+						"Lea Verou"
+					],
+					"venueUrl": "https://w3.org",
+					"venue": "W3C"
+				},
+				{
+					"url": "https://www.w3.org/TR/css-images-4/",
+					"title": "CSS Images Module Level 4",
+					"author": [
+						"Tab Atkins Jr.",
+						"Elika J. Etemad",
+						"Lea Verou"
+					],
+					"venueUrl": "https://w3.org",
+					"venue": "W3C"
+				},
+				{
+					"url": "https://www.w3.org/TR/css-images-3/",
+					"title": "CSS Images Module Level 3",
+					"author": [
+						"Tab Atkins Jr.",
+						"Elika J. Etemad",
+						"Lea Verou"
+					],
+					"venueUrl": "https://w3.org",
+					"venue": "W3C"
+				},
+				{
+					"url": "https://drafts.csswg.org/css-backgrounds-4/",
+					"title": "CSS Backgrounds and Borders Module Level 4 (Editor’s Draft)",
+					"author": [
+						"Bert Bos",
+						"Elika J. Etemad",
+						"Lea Verou"
+					],
+					"venueUrl": "https://w3.org",
+					"venue": "W3C"
+				}
+			]
+		},
+		{
 			"type": "Academic Peer-reviewed Papers",
 			"publication": [
 				{
