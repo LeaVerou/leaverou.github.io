@@ -1719,6 +1719,16 @@
 			"type": "Academic Peer-reviewed Papers",
 			"publication": [
 				{
+					"title": "Shapir: Standardizing and Democratizing Access to Web APIs",
+					"author": [
+						"Tarfah Alrashed",
+						"Lea Verou",
+						"David Karger"
+					],
+					"venueUrl": "https://uist.acm.org/uist2021/",
+					"venue": "UIST 2021"
+				},
+				{
 					"url": "https://dl.acm.org/citation.cfm?id=3242663",
 					"title": "Extending a Reactive Expression Language with Data Update Actions for End-User Application Authoring",
 					"author": [
