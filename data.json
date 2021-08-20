@@ -3,6 +3,19 @@
 		{
 			"talk": [
 				{
+					"title": "Writing code for humans",
+					"type": "Talk"
+				}
+			],
+			"url": "https://www.devbreak.io/",
+			"name": "DevBreak",
+			"date": "2021-09-09",
+			"city": "Bouville",
+			"country": "fr"
+		},
+		{
+			"talk": [
+				{
 					"title": "JS UX",
 					"type": "Keynote"
 				}
@@ -10,7 +23,7 @@
 			"url": "https://events.codemotion.com/conferences/online/2020/online-tech-conference-italian-edition/",
 			"name": "Codemotion Italia",
 			"date": "2020-11-25",
-			"country": "code"
+			"country": "online"
 		},
 		{
 			"talk": [
@@ -1268,7 +1281,7 @@
 			"date": "2011-10-06",
 			"city": "Amsterdam",
 			"country": "nl",
-			"comment": "My talk was considered one of the <a href='http://www.netmagazine.com/features/2011-review-15-web-conference-talks-you-need-watch' target='_blank'>15 best talks of 2011 by .net magazine</a>"
+			"comment": "My talk was considered one of the <a href='"
 		},
 		{
 			"talk": [
@@ -1417,7 +1430,7 @@
 			"date": "2010-10-21",
 			"city": "Warsaw",
 			"country": "pl",
-			"comment": "My slides became quite popular and were featured in the homepages of SlideShare, reddit, YCombinator Hacker News and many other websites. Christian Heilmann praised it on <a href=\"http://www.wait-till-i.com/2010/10/25/fronttrends2010-in-warsaw-poland-my-impressions-slides-and-audio/\">his review</a>",
+			"comment": "My slides became quite popular and were featured in the homepages of SlideShare, reddit, YCombinator Hacker News and many other websites. Christian Heilmann praised it on <a href=\"",
 			"days": 2,
 			"details": "https://lea.verou.me/2010/10/my-ft2010-slides-and-csss-my-presentation-framework/"
 		},
