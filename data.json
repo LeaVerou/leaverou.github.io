@@ -1480,6 +1480,7 @@
 			"image": "http://lea.verou.me/wp-content/uploads/2020/04/image-1.png",
 			"name": "LCH Color Picker",
 			"releaseDate": "2020-04",
+			"description": "A color picker to explore LCH colors that are now being added to CSS. Made with Mavo.",
 			"url": "https://css.land/lch",
 			"blogPost": "https://lea.verou.me/2020/04/lch-colors-in-css-what-why-and-how/",
 			"repo": "leaverou/css.land"
