@@ -1520,7 +1520,7 @@
 			"type": "lib"
 		},
 		{
-			"url": "https://leaverou.github.io/stretchy/",
+			"url": "https://projects.verou.me/stretchy",
 			"image": "https://lea.verou.me/wp-content/uploads/2015/07/Screen-Shot-2015-07-25-at-18.40.13--300x204.png",
 			"name": "Stretchy",
 			"description": "Form element autosizing, the way it should be.",
@@ -1530,7 +1530,7 @@
 			"type": "lib"
 		},
 		{
-			"url": "https://leaverou.github.io/multirange/",
+			"url": "https://projects.verou.me/multirange",
 			"image": "https://lea.verou.me/wp-content/uploads/2016/05/multirange.png",
 			"name": "Multirange",
 			"description": "A tiny polyfill for HTML5 multi-handle sliders.",
@@ -1540,7 +1540,7 @@
 			"type": "lib"
 		},
 		{
-			"url": "https://leaverou.github.io/awesomplete",
+			"url": "https://projects.verou.me/awesomplete",
 			"image": "https://lea.verou.me/wp-content/uploads/2015/02/awesomplete-300x248.png",
 			"name": "Awesomplete",
 			"description": "Ultra lightweight, customizable, simple autocomplete widget with zero dependencies",
@@ -1560,7 +1560,7 @@
 			"type": "app"
 		},
 		{
-			"url": "https://leaverou.github.io/corner-shape",
+			"url": "https://projects.verou.me/corner-shape",
 			"image": "https://lea.verou.me/wp-content/uploads/2013/03/Screen-Shot-2013-03-24-at-17.45.38-.png",
 			"name": "corner-shape preview",
 			"description": "Preview the corner-shape property before it’s implemented in browsers, through SVG.",
@@ -1610,7 +1610,7 @@
 			"type": "app"
 		},
 		{
-			"url": "https://leaverou.github.io/animatable",
+			"url": "https://projects.verou.me/animatable",
 			"image": "https://lea.verou.me/wp-content/uploads/2011/10/Screen-shot-2011-10-30-at-08.54.38--300x187.png",
 			"name": "Animatable",
 			"description": "A CSS transitions gallery that shows what's possible with even the most basic of transitions: one property, two values.",
@@ -1620,7 +1620,7 @@
 			"type": "app"
 		},
 		{
-			"url": "https://leaverou.github.io/prefixfree",
+			"url": "https://projects.verou.me/prefixfree",
 			"image": "https://lea.verou.me/wp-content/uploads/2011/10/Screen-shot-2011-11-15-at-14.33.38--300x187.png",
 			"name": "-prefix-free",
 			"description": "-prefix-free is a library that allows you to write standard, prefix-less CSS and have the necessary prefixes added on runtime. It uses feature detection for almost everything.",
@@ -1640,7 +1640,7 @@
 			"type": "app"
 		},
 		{
-			"url": "https://leaverou.github.io/css-colors/",
+			"url": "https://projects.verou.me/css-colors/",
 			"image": "https://lea.verou.me/wp-content/uploads/2011/09/shot1-300x200.png",
 			"name": "CSS Colors",
 			"description": "A tool that helps you convert between the different CSS-accepted color formats (including name keywords) as well as share them with others.",
@@ -1660,7 +1660,7 @@
 			"type": "app"
 		},
 		{
-			"url": "https://leaverou.github.io/chainvas/",
+			"url": "https://projects.verou.me/chainvas/",
 			"image": "https://lea.verou.me/wp-content/uploads/2011/09/Screen-shot-2011-11-15-at-14.57.17--300x187.png",
 			"name": "Chainvas",
 			"description": "Chainvas is a tiny generic chaining library that can make any API's methods chainable (like jQuery). Official plugins for the DOM and the Canvas API included.",
@@ -1708,7 +1708,7 @@
 			"type": "lib"
 		},
 		{
-			"url": "https://leaverou.github.io/Incrementable/",
+			"url": "https://projects.verou.me/Incrementable/",
 			"image": "https://lea.verou.me/wp-content/uploads/2011/02/incrementable-demo-300x202.png",
 			"name": "Incrementable",
 			"description": "A script that enables incrementing/decrementing multiple numeric values in textfields with the keyboard arrow keys.",
