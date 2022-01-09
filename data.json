@@ -1451,6 +1451,11 @@
 	],
 	"project": [
 		{
+			"name": "md-block",
+			"releaseDate": "2021-11",
+			"description": "A lightweight HTML custom element for Markdown that uses the popular [marked](https://marked.js.org/) library."
+		},
+		{
 			"url": "https://mavo.io",
 			"image": "https://mavo.io/logo.svg",
 			"name": "Mavo",
