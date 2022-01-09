@@ -1538,6 +1538,17 @@
 			"featured": 0
 		},
 		{
+			"featured": "0",
+			"image": "https://lea.verou.me/wp-content/uploads/2015/06/Screen-Shot-2015-06-18-at-16.26.40-.png",
+			"type": "lib",
+			"name": "Conic gradient polyfill",
+			"releaseDate": "2015-06",
+			"description": "A polyfill for CSS conical gradients.\n\n**Impact:** Encouraged browsers to implement CSS conic gradients. Because the polyfill also implemented the double color stop position syntax, browsers implemented that alongside, just so the examples in the polyfill page work correctly.",
+			"url": "https://projects.verou.me/conic-gradient",
+			"blogPost": "https://lea.verou.me/2015/06/conical-gradients-today/",
+			"repo": "leaverou/conic-gradient"
+		},
+		{
 			"url": "https://projects.verou.me/multirange",
 			"image": "https://lea.verou.me/wp-content/uploads/2016/05/multirange.png",
 			"name": "Multirange",
