@@ -1458,7 +1458,7 @@
 			"blogPost": "https://lea.verou.me/2021/11/on-yak-shaving-and-md-block-an-html-element-for-markdown/",
 			"repo": "leaverou/md-block",
 			"type": "lib",
-			"featured": false
+			"featured": 0
 		},
 		{
 			"image": "https://lea.verou.me/wp-content/uploads/2020/09/image.png",
@@ -1469,7 +1469,7 @@
 			"blogPost": "https://lea.verou.me/2020/09/parsel-a-tiny-permissive-css-selector-parser/",
 			"repo": "leaverou/parsel",
 			"type": "lib",
-			"featured": false
+			"featured": 0
 		},
 		{
 			"image": "https://lea.verou.me/wp-content/uploads/2020/07/image.png",
@@ -1480,7 +1480,7 @@
 			"blogPost": "https://lea.verou.me/2020/07/releasing-mavoice-a-free-app-to-vote-on-repo-issues/#more-3081",
 			"repo": "leaverou/mavoice",
 			"type": "app",
-			"featured": false
+			"featured": 0
 		},
 		{
 			"image": "http://lea.verou.me/wp-content/uploads/2020/04/image-1.png",
@@ -1491,7 +1491,7 @@
 			"blogPost": "https://lea.verou.me/2020/04/lch-colors-in-css-what-why-and-how/",
 			"repo": "leaverou/css.land",
 			"type": "app",
-			"featured": false
+			"featured": 0
 		},
 		{
 			"image": "https://lea.verou.me/wp-content/uploads/2019/12/image.png",
@@ -1502,7 +1502,7 @@
 			"blogPost": "https://lea.verou.me/2019/12/issue-closing-stats-for-any-repo/",
 			"repo": "leaverou/issue-closing",
 			"type": "app",
-			"featured": false
+			"featured": 0
 		},
 		{
 			"url": "https://mavo.io",
@@ -1513,7 +1513,7 @@
 			"repo": "mavoweb/mavo",
 			"releaseDate": "2017-05",
 			"type": "lib",
-			"featured": true
+			"featured": 1
 		},
 		{
 			"url": "http://blissfuljs.com/",
@@ -1524,7 +1524,7 @@
 			"repo": "leaverou/bliss",
 			"releaseDate": "2015-12",
 			"type": "lib",
-			"featured": false
+			"featured": 0
 		},
 		{
 			"url": "https://projects.verou.me/stretchy",
@@ -1535,7 +1535,7 @@
 			"repo": "leaverou/stretchy",
 			"releaseDate": "2015-07",
 			"type": "lib",
-			"featured": false
+			"featured": 0
 		},
 		{
 			"url": "https://projects.verou.me/multirange",
@@ -1546,7 +1546,7 @@
 			"repo": "leaverou/multirange",
 			"releaseDate": "2016-05",
 			"type": "lib",
-			"featured": false
+			"featured": 0
 		},
 		{
 			"url": "https://projects.verou.me/awesomplete",
@@ -1557,7 +1557,7 @@
 			"repo": "leaverou/awesomplete",
 			"releaseDate": "2015-02",
 			"type": "lib",
-			"featured": false
+			"featured": 0
 		},
 		{
 			"url": "https://dpi.lv",
@@ -1568,7 +1568,7 @@
 			"repo": "leaverou/dpi",
 			"releaseDate": "2013-06",
 			"type": "app",
-			"featured": false
+			"featured": 0
 		},
 		{
 			"url": "https://projects.verou.me/corner-shape",
@@ -1579,7 +1579,7 @@
 			"repo": "leaverou/corner-shape",
 			"releaseDate": "2013-03",
 			"type": "app",
-			"featured": false
+			"featured": 0
 		},
 		{
 			"url": "https://contrast-ratio.com",
@@ -1590,7 +1590,7 @@
 			"repo": "leaverou/contrast-ratio",
 			"releaseDate": "2012-10",
 			"type": "app",
-			"featured": true
+			"featured": 1
 		},
 		{
 			"url": "https://prismjs.com",
@@ -1601,7 +1601,7 @@
 			"repo": "prismjs/prism",
 			"releaseDate": "2012-07",
 			"type": "lib",
-			"featured": true
+			"featured": 1
 		},
 		{
 			"url": "https://css3test.com",
@@ -1612,7 +1612,7 @@
 			"repo": "leaverou/css3test",
 			"releaseDate": "2012-02",
 			"type": "app",
-			"featured": false
+			"featured": 0
 		},
 		{
 			"url": "https://dabblet.com",
@@ -1623,7 +1623,7 @@
 			"repo": "leaverou/dabblet",
 			"releaseDate": "2011-12",
 			"type": "app",
-			"featured": true
+			"featured": 1
 		},
 		{
 			"url": "https://projects.verou.me/animatable",
@@ -1634,7 +1634,7 @@
 			"repo": "leaverou/animatable",
 			"releaseDate": "2011-10",
 			"type": "app",
-			"featured": false
+			"featured": 0
 		},
 		{
 			"url": "https://projects.verou.me/prefixfree",
@@ -1645,7 +1645,7 @@
 			"repo": "leaverou/prefixfree",
 			"releaseDate": "2011-10",
 			"type": "lib",
-			"featured": false
+			"featured": 0
 		},
 		{
 			"url": "https://cubic-bezier.com",
@@ -1656,7 +1656,7 @@
 			"repo": "leaverou/cubic-bezier",
 			"releaseDate": "2011-09",
 			"type": "app",
-			"featured": true
+			"featured": 1
 		},
 		{
 			"url": "https://projects.verou.me/css-colors/",
@@ -1667,7 +1667,7 @@
 			"repo": "LeaVerou/css-colors",
 			"releaseDate": "2011-09",
 			"type": "app",
-			"featured": false
+			"featured": 0
 		},
 		{
 			"url": "https://lea.verou.me/css3patterns",
@@ -1678,7 +1678,7 @@
 			"repo": "LeaVerou/css3patterns",
 			"releaseDate": "2011-04",
 			"type": "app",
-			"featured": true
+			"featured": 1
 		},
 		{
 			"url": "https://projects.verou.me/chainvas/",
@@ -1689,7 +1689,7 @@
 			"repo": "leaverou/chainvas",
 			"releaseDate": "2011-09",
 			"type": "lib",
-			"featured": false
+			"featured": 0
 		},
 		{
 			"url": "https://lea.verou.me/demos/cssgradientsplease/",
@@ -1699,7 +1699,7 @@
 			"blogPost": "https://lea.verou.me/2011/03/convert-standard-gradient-syntax-to-webkit-gradient-and-others/",
 			"releaseDate": "2011-03",
 			"type": "app",
-			"featured": false
+			"featured": 0
 		},
 		{
 			"url": "https://lea.verou.me/demos/nth.html",
@@ -1709,7 +1709,7 @@
 			"blogPost": "https://lea.verou.me/2010/03/css3-structural-pseudo-class-selector-tester/",
 			"releaseDate": "2010-03",
 			"type": "app",
-			"featured": false
+			"featured": 0
 		},
 		{
 			"url": "https://lea.verou.me/polyfills/progress/",
@@ -1720,7 +1720,7 @@
 			"repo": "leaverou/html5-progress-polyfill",
 			"releaseDate": "2011-07",
 			"type": "lib",
-			"featured": false
+			"featured": 0
 		},
 		{
 			"url": "https://github.com/leaverou/stronglytyped/",
@@ -1731,7 +1731,7 @@
 			"repo": "leaverou/stronglytyped",
 			"releaseDate": "2011-05",
 			"type": "lib",
-			"featured": false
+			"featured": 0
 		},
 		{
 			"url": "https://projects.verou.me/Incrementable/",
@@ -1742,7 +1742,7 @@
 			"repo": "leaverou/incrementable",
 			"releaseDate": "2011-02",
 			"type": "lib",
-			"featured": false
+			"featured": 0
 		},
 		{
 			"url": "https://inspirejs.org",
@@ -1753,7 +1753,7 @@
 			"repo": "leaverou/inspire.js",
 			"releaseDate": "2010-10",
 			"type": "lib",
-			"featured": false
+			"featured": 0
 		},
 		{
 			"url": "https://lea.verou.me/rgba.php/",
@@ -1763,7 +1763,7 @@
 			"blogPost": "https://lea.verou.me/2009/02/bulletproof-cross-browser-rgba-backgrounds/",
 			"releaseDate": "2009-02",
 			"type": "lib",
-			"featured": false
+			"featured": 0
 		}
 	],
 	"publicationType": [
