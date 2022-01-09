@@ -1462,7 +1462,10 @@
 			"image": "https://lea.verou.me/wp-content/uploads/2020/09/image.png",
 			"name": "Parsel",
 			"releaseDate": "2020-09",
-			"description": "A tiny, permissive CSS selector parser and specificity calculator."
+			"description": "A tiny, permissive CSS selector parser and specificity calculator.",
+			"url": "https://projects.verou.me/parsel",
+			"blogPost": "https://lea.verou.me/2020/09/parsel-a-tiny-permissive-css-selector-parser/",
+			"repo": "leaverou/parsel"
 		},
 		{
 			"url": "https://mavo.io",
