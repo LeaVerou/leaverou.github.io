@@ -1477,6 +1477,14 @@
 			"repo": "leaverou/mavoice"
 		},
 		{
+			"image": "http://lea.verou.me/wp-content/uploads/2020/04/image-1.png",
+			"name": "LCH Color Picker",
+			"releaseDate": "2020-04",
+			"url": "https://css.land/lch",
+			"blogPost": "https://lea.verou.me/2020/04/lch-colors-in-css-what-why-and-how/",
+			"repo": "leaverou/css.land"
+		},
+		{
 			"url": "https://mavo.io",
 			"image": "https://mavo.io/logo.svg",
 			"name": "Mavo",
