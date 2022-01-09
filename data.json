@@ -1485,6 +1485,15 @@
 			"repo": "leaverou/css.land"
 		},
 		{
+			"image": "https://lea.verou.me/wp-content/uploads/2019/12/image.png",
+			"name": "Issue closing stats",
+			"releaseDate": "2019-12",
+			"description": "An app to display issue closing stats for any repo. Made with Mavo.",
+			"url": "https://projects.verou.me/issue-closing",
+			"blogPost": "https://lea.verou.me/2019/12/issue-closing-stats-for-any-repo/",
+			"repo": "leaverou/issue-closing"
+		},
+		{
 			"url": "https://mavo.io",
 			"image": "https://mavo.io/logo.svg",
 			"name": "Mavo",
