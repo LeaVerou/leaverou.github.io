@@ -1508,12 +1508,12 @@
 			"url": "https://mavo.io",
 			"image": "https://mavo.io/logo.svg",
 			"name": "Mavo",
-			"description": "Mavo helps you turn your static HTML into reactive web applications without a single line of programming code and no server backend. \nDeveloped in the Haystack Group at MIT CSAIL and led by Lea Verou.",
+			"description": "Mavo helps you turn your static HTML into reactive web applications without a single line of programming code and no server backend. \nDeveloped in the Haystack Group at MIT CSAIL and led by Lea Verou.\n\n**Impact:** Led to the publication of [several research papers](https://lea.verou.me/publications/#research)",
 			"blogPost": "https://lea.verou.me/2017/05/introducing-mavo-create-web-apps-entirely-by-writing-html/",
 			"repo": "mavoweb/mavo",
 			"releaseDate": "2017-05",
 			"type": "lib",
-			"featured": false
+			"featured": true
 		},
 		{
 			"url": "http://blissfuljs.com/",
@@ -1541,7 +1541,7 @@
 			"url": "https://projects.verou.me/multirange",
 			"image": "https://lea.verou.me/wp-content/uploads/2016/05/multirange.png",
 			"name": "Multirange",
-			"description": "A tiny polyfill for HTML5 multi-handle sliders.",
+			"description": "A tiny polyfill for HTML5 multi-handle sliders.\n\n**Impact:** Was apparently used so much that its custom properties appeared in [Web Almanac's analysis of the top 1000 custom property names](https://almanac.httparchive.org/en/2020/css#naming)",
 			"blogPost": "https://lea.verou.me/2016/05/introducing-multirange-a-tiny-polyfill-for-html5-two-handle-sliders/",
 			"repo": "leaverou/multirange",
 			"releaseDate": "2016-05",
@@ -1585,12 +1585,12 @@
 			"url": "https://contrast-ratio.com",
 			"image": "https://lea.verou.me/wp-content/uploads/2012/10/Screen-Shot-2012-10-14-at-06.08.41--300x254.png",
 			"name": "Contrast Ratio",
-			"description": "Contrast Ratio is a modern tool for testing whether a combination of colors passes WCAG 2.0. It accepts any CSS color the browser accepts, including semi-transparent colors, color keywords, HSL(A) colors and the like. You can also share color combinations with others by just sharing the current URL.",
+			"description": "Contrast Ratio is a modern tool for testing whether a combination of colors passes WCAG 2.0. It accepts any CSS color the browser accepts, including semi-transparent colors, color keywords, HSL(A) colors and the like. You can also share color combinations with others by just sharing the current URL.\n\nIt has become one of the most popular contrast checkers on the Web, and [has been featured in several books](https://www.google.com/search?q=%22contrast-ratio.com%22+OR+%22leaverou.github.io%2Fcontrast-ratio%22&tbm=bks) and talks.",
 			"blogPost": "https://lea.verou.me/2012/10/easy-color-contrast-ratios/",
 			"repo": "leaverou/contrast-ratio",
 			"releaseDate": "2012-10",
 			"type": "app",
-			"featured": false
+			"featured": true
 		},
 		{
 			"url": "https://prismjs.com",
@@ -1618,12 +1618,12 @@
 			"url": "https://dabblet.com",
 			"image": "https://lea.verou.me/wp-content/uploads/2011/12/Screen-shot-2011-12-14-at-23.32.02--300x183.png",
 			"name": "Dabblet",
-			"description": "An interactive CSS playground. Was quite successful for a few years, with thousands of visitors every day. Pioneered using Github Gists as a storage backend, and its inline previewers for various value types predate similar features in today's editors.",
+			"description": "An interactive CSS playground. Was quite successful for a few years, with thousands of visitors every day. \n\n**Impact:** Pioneered using Github Gists as a storage backend, and its inline previewers for various value types predate similar features in today's editors.",
 			"blogPost": "https://lea.verou.me/2011/12/introducing-dabblet-an-interactive-css-playground/",
 			"repo": "leaverou/dabblet",
 			"releaseDate": "2011-12",
 			"type": "app",
-			"featured": false
+			"featured": true
 		},
 		{
 			"url": "https://projects.verou.me/animatable",
@@ -1640,7 +1640,7 @@
 			"url": "https://projects.verou.me/prefixfree",
 			"image": "https://lea.verou.me/wp-content/uploads/2011/10/Screen-shot-2011-11-15-at-14.33.38--300x187.png",
 			"name": "-prefix-free",
-			"description": "-prefix-free is a library that allows you to write standard, prefix-less CSS and have the necessary prefixes added on runtime. It uses feature detection for almost everything.",
+			"description": "-prefix-free was a library that allowed authors to write standard, prefix-less CSS and have the necessary prefixes added on runtime. It used feature detection for almost everything instead of hardcoded lists, allowing it to remain extremely lightweight and always up-to-date regardless of its version. Was gradually abandoned as browsers moved away from vendor prefixes, since the problem it was solving all but disappeared.",
 			"blogPost": "https://coding.smashingmagazine.com/2011/10/12/prefixfree-break-free-from-css-prefix-hell/",
 			"repo": "leaverou/prefixfree",
 			"releaseDate": "2011-10",
@@ -1651,12 +1651,12 @@
 			"url": "https://cubic-bezier.com",
 			"image": "https://lea.verou.me/wp-content/uploads/2011/09/Screen-shot-2011-09-14-at-10.33.11--300x204.png",
 			"name": "cubic-bezier.com",
-			"description": "A tool that helps you work with the easing functions of CSS3 transitions &amp; animations and share them with others.",
+			"description": "A tool that helps you work with the easing functions of CSS3 transitions & animations and share them with others.\n\nIt has been featured on several [books](https://www.google.com/search?tbm=bks&q=%22cubic-bezier.com%22) and talks. Its code was at some point even [included in the Firefox browser](https://hacks.mozilla.org/2014/07/event-listeners-popup-media-sidebar-cubic-bezier-editor-more-firefox-developer-tools-episode-33/) and [Adobe's Brackets editor](https://twitter.com/brackets/status/400678387045642241)",
 			"blogPost": "https://lea.verou.me/2011/09/a-better-tool-for-cubic-bezier-easing/",
 			"repo": "leaverou/cubic-bezier",
 			"releaseDate": "2011-09",
 			"type": "app",
-			"featured": false
+			"featured": true
 		},
 		{
 			"url": "https://projects.verou.me/css-colors/",
@@ -1673,12 +1673,12 @@
 			"url": "https://lea.verou.me/css3patterns",
 			"image": "https://lea.verou.me/wp-content/uploads/2011/04/csspatterns-300x177.png",
 			"name": "CSS3 patterns gallery",
-			"description": "An interactive gallery that demonstrates what's possible with just CSS gradients. It also allows you to edit the code, to experiment with gradients yourself.",
+			"description": "An interactive gallery that demonstrated what's possible with just CSS gradients. It also allows you to edit the code, to experiment with gradients yourself.\n\n**Impact:** The gallery and the corresponding blog posts started the — now widespread — practice of using hard stops in CSS gradients to easily create background patterns. It has been [featured in a number of books](https://www.google.com/search?q=%22css3patterns%22&tbm=bks), talks, workshops.",
 			"blogPost": "https://lea.verou.me/2011/04/css3-patterns-gallery-and-a-new-pattern/",
 			"repo": "LeaVerou/css3patterns",
 			"releaseDate": "2011-04",
 			"type": "app",
-			"featured": false
+			"featured": true
 		},
 		{
 			"url": "https://projects.verou.me/chainvas/",
