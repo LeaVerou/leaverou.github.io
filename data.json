@@ -1543,7 +1543,7 @@
 			"type": "lib",
 			"name": "Conic gradient polyfill",
 			"releaseDate": "2015-06",
-			"description": "A polyfill for CSS conical gradients.\n\n**Impact:** Encouraged browsers to implement CSS conic gradients. Because the polyfill also implemented the double color stop position syntax, browsers implemented that alongside, just so the examples in the polyfill page work correctly.",
+			"description": "A polyfill for CSS conical gradients.\n\n**Impact:** [Encouraged browsers to implement CSS conic gradients](https://bugs.chromium.org/p/chromium/issues/detail?id=502970). Because the polyfill also implemented the double color stop position syntax, [browsers implemented that alongside](https://chromestatus.com/feature/5712111258828800), just so the examples in the polyfill page work correctly.",
 			"url": "https://projects.verou.me/conic-gradient",
 			"blogPost": "https://lea.verou.me/2015/06/conical-gradients-today/",
 			"repo": "leaverou/conic-gradient"
