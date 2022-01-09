@@ -1456,7 +1456,8 @@
 			"name": "Mavo",
 			"description": "Mavo helps you turn your static HTML into reactive web applications without a single line of programming code and no server backend. \nDeveloped in the Haystack Group at MIT CSAIL and led by Lea Verou.",
 			"blogPost": "https://lea.verou.me/2017/05/introducing-mavo-create-web-apps-entirely-by-writing-html/",
-			"repo": "mavoweb/mavo"
+			"repo": "mavoweb/mavo",
+			"releaseDate": "2017-05"
 		},
 		{
 			"url": "http://blissfuljs.com/",
@@ -1464,7 +1465,8 @@
 			"name": "Bliss",
 			"description": "Want to use Vanilla JS but find native APIs a bit unwieldy? Bliss is for you.",
 			"blogPost": "https://lea.verou.me/2015/12/introducing-bliss-a-3kb-library-for-happier-vanilla-js/",
-			"repo": "leaverou/bliss"
+			"repo": "leaverou/bliss",
+			"releaseDate": "2015-12"
 		},
 		{
 			"url": "https://leaverou.github.io/stretchy/",
@@ -1472,7 +1474,8 @@
 			"name": "Stretchy",
 			"description": "Form element autosizing, the way it should be.",
 			"blogPost": "https://lea.verou.me/2015/07/stretchy-form-element-autosizing-the-way-it-should-be",
-			"repo": "leaverou/stretchy"
+			"repo": "leaverou/stretchy",
+			"releaseDate": "2015-07"
 		},
 		{
 			"url": "https://leaverou.github.io/multirange/",
@@ -1480,7 +1483,8 @@
 			"name": "Multirange",
 			"description": "A tiny polyfill for HTML5 multi-handle sliders.",
 			"blogPost": "https://lea.verou.me/2016/05/introducing-multirange-a-tiny-polyfill-for-html5-two-handle-sliders/",
-			"repo": "leaverou/multirange"
+			"repo": "leaverou/multirange",
+			"releaseDate": "2016-05"
 		},
 		{
 			"url": "https://leaverou.github.io/awesomplete",
@@ -1488,7 +1492,8 @@
 			"name": "Awesomplete",
 			"description": "Ultra lightweight, customizable, simple autocomplete widget with zero dependencies",
 			"blogPost": "https://lea.verou.me/2015/02/awesomplete-2kb-autocomplete-with-zero-dependencies/",
-			"repo": "leaverou/awesomplete"
+			"repo": "leaverou/awesomplete",
+			"releaseDate": "2022-01-09"
 		},
 		{
 			"url": "https://dpi.lv",
@@ -1496,7 +1501,8 @@
 			"name": "DPI love",
 			"description": "More than you probably wanted to know about screen DPI.",
 			"blogPost": "https://lea.verou.me/2013/06/meet-dpi-lv-more-than-you-probably-wanted-to-know-about-screen-dpi/",
-			"repo": "leaverou/dpi"
+			"repo": "leaverou/dpi",
+			"releaseDate": "2022-01-09"
 		},
 		{
 			"url": "https://leaverou.github.io/corner-shape",
@@ -1504,7 +1510,8 @@
 			"name": "corner-shape preview",
 			"description": "Preview the corner-shape property before it’s implemented in browsers, through SVG.",
 			"blogPost": "https://lea.verou.me/2013/03/preview-border-corner-shape-before-implementations/",
-			"repo": "leaverou/corner-shape"
+			"repo": "leaverou/corner-shape",
+			"releaseDate": "2022-01-09"
 		},
 		{
 			"url": "https://contrast-ratio.com",
@@ -1512,7 +1519,8 @@
 			"name": "Contrast Ratio",
 			"description": "Contrast Ratio is a modern tool for testing whether a combination of colors passes WCAG 2.0. It accepts any CSS color the browser accepts, including semi-transparent colors, color keywords, HSL(A) colors and the like. You can also share color combinations with others by just sharing the current URL.",
 			"blogPost": "https://lea.verou.me/2012/10/easy-color-contrast-ratios/",
-			"repo": "leaverou/contrast-ratio"
+			"repo": "leaverou/contrast-ratio",
+			"releaseDate": "2022-01-09"
 		},
 		{
 			"url": "https://prismjs.com",
@@ -1520,7 +1528,8 @@
 			"name": "Prism",
 			"description": "A lightweight, extensible syntax highlighter, built with modern web standards in mind. Pretty much my most successful project, used in a number of high profile websites.",
 			"blogPost": "https://lea.verou.me/2012/07/introducing-prism-an-awesome-new-syntax-highlighter/",
-			"repo": "prismjs/prism"
+			"repo": "prismjs/prism",
+			"releaseDate": "2022-01-09"
 		},
 		{
 			"url": "https://css3test.com",
@@ -1528,7 +1537,8 @@
 			"name": "The CSS3 Test",
 			"description": "Exactly how much CSS3 does your browser support?",
 			"blogPost": "https://lea.verou.me/2012/02/exactly-how-much-css3-does-your-browser-support/",
-			"repo": "leaverou/css3test"
+			"repo": "leaverou/css3test",
+			"releaseDate": "2022-01-09"
 		},
 		{
 			"url": "https://dabblet.com",
@@ -1536,7 +1546,8 @@
 			"name": "Dabblet",
 			"description": "An interactive CSS playground. Was quite successful for a few years, with thousands of visitors every day. Pioneered using Github Gists as a storage backend, and its inline previewers for various value types predate similar features in today's editors.",
 			"blogPost": "https://lea.verou.me/2011/12/introducing-dabblet-an-interactive-css-playground/",
-			"repo": "leaverou/dabblet"
+			"repo": "leaverou/dabblet",
+			"releaseDate": "2022-01-09"
 		},
 		{
 			"url": "https://leaverou.github.io/animatable",
@@ -1544,7 +1555,8 @@
 			"name": "Animatable",
 			"description": "A CSS transitions gallery that shows what's possible with even the most basic of transitions: one property, two values.",
 			"blogPost": "https://lea.verou.me/2011/10/animatable-a-css-transitions-gallery/",
-			"repo": "leaverou/animatable"
+			"repo": "leaverou/animatable",
+			"releaseDate": "2022-01-09"
 		},
 		{
 			"url": "https://leaverou.github.io/prefixfree",
@@ -1552,7 +1564,8 @@
 			"name": "-prefix-free",
 			"description": "-prefix-free is a library that allows you to write standard, prefix-less CSS and have the necessary prefixes added on runtime. It uses feature detection for almost everything.",
 			"blogPost": "https://coding.smashingmagazine.com/2011/10/12/prefixfree-break-free-from-css-prefix-hell/",
-			"repo": "leaverou/prefixfree"
+			"repo": "leaverou/prefixfree",
+			"releaseDate": "2022-01-09"
 		},
 		{
 			"url": "https://cubic-bezier.com",
@@ -1560,7 +1573,8 @@
 			"name": "cubic-bezier.com",
 			"description": "A tool that helps you work with the easing functions of CSS3 transitions &amp; animations and share them with others.",
 			"blogPost": "https://lea.verou.me/2011/09/a-better-tool-for-cubic-bezier-easing/",
-			"repo": "leaverou/cubic-bezier"
+			"repo": "leaverou/cubic-bezier",
+			"releaseDate": "2022-01-09"
 		},
 		{
 			"url": "https://leaverou.github.io/css-colors/",
@@ -1568,7 +1582,8 @@
 			"name": "CSS Colors",
 			"description": "A tool that helps you convert between the different CSS-accepted color formats (including name keywords) as well as share them with others.",
 			"blogPost": "https://lea.verou.me/2011/09/css-coloratum-convert-and-share-css-colors/",
-			"repo": "LeaVerou/css-colors"
+			"repo": "LeaVerou/css-colors",
+			"releaseDate": "2022-01-09"
 		},
 		{
 			"url": "https://lea.verou.me/css3patterns",
@@ -1576,7 +1591,8 @@
 			"name": "CSS3 patterns gallery",
 			"description": "An interactive gallery that demonstrates what's possible with just CSS gradients. It also allows you to edit the code, to experiment with gradients yourself.",
 			"blogPost": "https://lea.verou.me/2011/04/css3-patterns-gallery-and-a-new-pattern/",
-			"repo": "LeaVerou/css3patterns"
+			"repo": "LeaVerou/css3patterns",
+			"releaseDate": "2022-01-09"
 		},
 		{
 			"url": "https://leaverou.github.io/chainvas/",
@@ -1584,21 +1600,24 @@
 			"name": "Chainvas",
 			"description": "Chainvas is a tiny generic chaining library that can make any API's methods chainable (like jQuery). Official plugins for the DOM and the Canvas API included.",
 			"blogPost": "https://lea.verou.me/2011/09/major-update-to-chainvas-modularity-a-client-side-build-script-more/",
-			"repo": "leaverou/chainvas"
+			"repo": "leaverou/chainvas",
+			"releaseDate": "2022-01-09"
 		},
 		{
 			"url": "https://lea.verou.me/demos/cssgradientsplease/",
 			"image": "https://lea.verou.me/wp-content/uploads/2011/03/cssgradientsplease-screenshot-300x148.png",
 			"name": "CSS gradients please!",
 			"description": "A tool that converts the standard gradient syntax to <code>-webkit-gradient</code> and adds the rest of the prefixes",
-			"blogPost": "https://lea.verou.me/2011/03/convert-standard-gradient-syntax-to-webkit-gradient-and-others/"
+			"blogPost": "https://lea.verou.me/2011/03/convert-standard-gradient-syntax-to-webkit-gradient-and-others/",
+			"releaseDate": "2022-01-09"
 		},
 		{
 			"url": "https://lea.verou.me/demos/nth.html",
 			"image": "https://lea.verou.me/wp-content/uploads/2010/03/Screen-shot-2011-09-20-at-14.13.13--300x187.png",
 			"name": "CSS3 structural pseudo-class selector tester",
 			"description": "A tool that helps you learn how the :nth-whatever() CSS3 pseudo-classes work.",
-			"blogPost": "https://lea.verou.me/2010/03/css3-structural-pseudo-class-selector-tester/"
+			"blogPost": "https://lea.verou.me/2010/03/css3-structural-pseudo-class-selector-tester/",
+			"releaseDate": "2022-01-09"
 		},
 		{
 			"url": "https://lea.verou.me/polyfills/progress/",
@@ -1606,7 +1625,8 @@
 			"name": "HTML5 <progress> polyfill",
 			"description": "A very thorough (perhaps too thorough) polyfill for the HTML5 &lt;progress&gt; element.",
 			"blogPost": "https://lea.verou.me/2011/07/a-polyfill-for-html5-progress-element-the-obsessive-perfectionist-way/",
-			"repo": "leaverou/html5-progress-polyfill"
+			"repo": "leaverou/html5-progress-polyfill",
+			"releaseDate": "2022-01-09"
 		},
 		{
 			"url": "https://github.com/leaverou/stronglytyped/",
@@ -1614,7 +1634,8 @@
 			"name": "StronglyTyped",
 			"description": "A library for constants and strongly typed variables in JavaScript.",
 			"blogPost": "https://lea.verou.me/2011/05/strongly-typed-javascript/",
-			"repo": "leaverou/stronglytyped"
+			"repo": "leaverou/stronglytyped",
+			"releaseDate": "2022-01-09"
 		},
 		{
 			"url": "https://leaverou.github.io/Incrementable/",
@@ -1622,7 +1643,8 @@
 			"name": "Incrementable",
 			"description": "A script that enables incrementing/decrementing multiple numeric values in textfields with the keyboard arrow keys.",
 			"blogPost": "https://lea.verou.me/2011/02/incrementable-length-values-in-text-fields/",
-			"repo": "leaverou/incrementable"
+			"repo": "leaverou/incrementable",
+			"releaseDate": "2022-01-09"
 		},
 		{
 			"url": "https://inspirejs.org",
@@ -1630,14 +1652,16 @@
 			"name": "Inspire.js",
 			"description": "My slide deck framework, built exclusively with open web technologies. Includes plugins for editable CSS regions, syntax hightlighting and more. Originally released under the name CSSS in 2010, rewritten in 2018 and renamed to Inspire.js",
 			"blogPost": "https://lea.verou.me/2010/10/my-ft2010-slides-and-csss-my-presentation-framework/",
-			"repo": "leaverou/inspire.js"
+			"repo": "leaverou/inspire.js",
+			"releaseDate": "2022-01-09"
 		},
 		{
 			"url": "https://lea.verou.me/rgba.php/",
 			"image": "https://lea.verou.me/wp-content/uploads/2010/12/Screen-shot-2011-11-15-at-15.19.14--300x187.png",
 			"name": "rgba.php",
 			"description": "A server-side script that automatically generates semi-transparent PNGs to be used as fallbacks for RGBA colors.",
-			"blogPost": "https://lea.verou.me/2010/12/rgba-php-v1-2-improved-url-syntax-now-at-github/"
+			"blogPost": "https://lea.verou.me/2010/12/rgba-php-v1-2-improved-url-syntax-now-at-github/",
+			"releaseDate": "2022-01-09"
 		}
 	],
 	"publicationType": [
