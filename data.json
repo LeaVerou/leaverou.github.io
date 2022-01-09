@@ -1468,6 +1468,14 @@
 			"repo": "leaverou/parsel"
 		},
 		{
+			"name": "MaVoice",
+			"releaseDate": "2020-07",
+			"description": "A free app to vote on repo issues for any repo, that uses GitHub Issues under the hood. Made with Mavo.",
+			"url": "https://projects.verou.me/mavoice",
+			"blogPost": "https://lea.verou.me/2020/07/releasing-mavoice-a-free-app-to-vote-on-repo-issues/#more-3081",
+			"repo": "leaverou/mavoice"
+		},
+		{
 			"url": "https://mavo.io",
 			"image": "https://mavo.io/logo.svg",
 			"name": "Mavo",
