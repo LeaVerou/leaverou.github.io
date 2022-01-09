@@ -1459,6 +1459,12 @@
 			"repo": "leaverou/md-block"
 		},
 		{
+			"image": "https://lea.verou.me/wp-content/uploads/2020/09/image.png",
+			"name": "Parsel",
+			"releaseDate": "2020-09",
+			"description": "A tiny, permissive CSS selector parser and specificity calculator."
+		},
+		{
 			"url": "https://mavo.io",
 			"image": "https://mavo.io/logo.svg",
 			"name": "Mavo",
