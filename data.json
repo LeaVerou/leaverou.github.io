@@ -1787,7 +1787,8 @@
 					"date": "2015-05",
 					"url": "http://shop.oreilly.com/product/0636920031123.do",
 					"venueUrl": "https://oreilly.com/",
-					"author": []
+					"author": [],
+					"comment": "* Translated into **8 languages** ([German](http://www.dpunkt.de/buecher/12468/9783960090250-css-secrets.html), [Polish](http://helion.pl/ksiazki/css-bez-tajemnic-47-sekretow-kreatywnego-projektanta-lea-verou,scss47.htm), [Russian](https://www.piter.com/collection/all/product/sekrety-css-idealnye-resheniya-ezhednevnyh-zadach), [Japanese](https://www.amazon.co.jp/CSSシークレット-_47のテクニックでCSSを自在に操る-Lea-Verou/dp/4873117666/), [Simplified Chinese](https://www.amazon.cn/CSS揭秘-希-韦鲁/dp/B01MDS2JQ0/), [Traditional Chinese](http://books.gotop.com.tw/v_A447), [Korean](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&barcode=9788965401421), [Bulgarian](https://www.zest-press.com/taynite-na-css.html))\n* Average of **4.6/5** on [Amazon](http://www.amazon.com/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635/), 182 reviews.\n* Was consistently in the [top 10 Amazon bestsellers on CSS](http://www.amazon.com/gp/bestsellers/books/379357011/ref=pd_zg_hrsr_b_1_5_last) and the [top 30 on User Experience & Usability](http://www.amazon.com/gp/bestsellers/books/4033/ref=pd_zg_hrsr_b_2_4_last), for the first year since its publication date.\n* [Over 1000 endorsements on Twitter](https://twitter.com/csssecretsbook)"
 				},
 				{
 					"title": "Chapter in Smashing Book #3: Restyle, recode, reimagine, with CSS3",
