@@ -1538,7 +1538,7 @@
 			"featured": 0
 		},
 		{
-			"featured": "0",
+			"featured": 1,
 			"image": "https://lea.verou.me/wp-content/uploads/2015/06/Screen-Shot-2015-06-18-at-16.26.40-.png",
 			"type": "lib",
 			"name": "Conic gradient polyfill",
