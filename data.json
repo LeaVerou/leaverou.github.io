@@ -1457,6 +1457,7 @@
 			"name": "Color.js",
 			"releaseDate": "2022-06-29",
 			"description": "A color space agnostic color conversion and manipulation library, developed jointly with [Chris Lilley](https://svgees.us). Used to generate figures and examples for several CSS specifications and influenced the [Color API](https://github.com/wicg/color-api)",
+			"url": "https://colorjs.io",
 			"blogPost": "https://lea.verou.me/2022/06/releasing-colorjs/",
 			"repo": "leaverou/color.js"
 		},
