@@ -1451,6 +1451,14 @@
 	],
 	"project": [
 		{
+			"featured": "0",
+			"image": "https://lea.verou.me/wp-content/uploads/2022/06/image-2.png",
+			"type": "lib",
+			"name": "Color.js",
+			"releaseDate": "2022-06-29",
+			"description": "A color space agnostic color conversion and manipulation library, developed jointly with [Chris Lilley](https://svgees.us). Used to generate figures and examples for several CSS specifications and influenced the [Color API](https://github.com/wicg/color-api)"
+		},
+		{
 			"name": "md-block",
 			"releaseDate": "2021-11",
 			"description": "A lightweight HTML custom element for Markdown that uses the popular [marked](https://marked.js.org/) library.",
