@@ -3,6 +3,20 @@
 		{
 			"talk": [
 				{
+					"title": "Dynamic CSS Secrets",
+					"type": "Talk",
+					"video": "https://www.youtube.com/watch?v=ZuZizqDF4q8"
+				}
+			],
+			"url": "https://cssday.nl/2022",
+			"name": "CSS Day",
+			"date": "2022-06-09",
+			"city": "Amsterdam",
+			"country": "nl"
+		},
+		{
+			"talk": [
+				{
 					"title": "Writing code for humans",
 					"type": "Talk"
 				}
