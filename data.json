@@ -3,6 +3,19 @@
 		{
 			"talk": [
 				{
+					"title": "Dynamic CSS Secrets (abridged)",
+					"type": "Talk"
+				}
+			],
+			"url": "https://shift.infobip.com/",
+			"name": "Infobip Shift",
+			"date": "2022-09-19",
+			"city": "Zadar",
+			"country": "hr"
+		},
+		{
+			"talk": [
+				{
 					"title": "Dynamic CSS Secrets",
 					"type": "Talk",
 					"video": "https://www.youtube.com/watch?v=ZuZizqDF4q8"
