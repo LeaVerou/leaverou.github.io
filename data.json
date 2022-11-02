@@ -3,6 +3,32 @@
 		{
 			"talk": [
 				{
+					"title": "TBD",
+					"type": "Talk"
+				}
+			],
+			"url": "https://www.weyweyweb.com/",
+			"name": "WeyWeyWeb",
+			"date": "2022-12-15",
+			"city": "Malaga",
+			"country": "es"
+		},
+		{
+			"talk": [
+				{
+					"title": "Dynamic CSS Secrets",
+					"type": "Talk"
+				}
+			],
+			"url": "https://smashingconf.com/ny-2022/",
+			"name": "SmashingConf New York",
+			"date": "2022-10-12",
+			"city": "New York",
+			"country": "us"
+		},
+		{
+			"talk": [
+				{
 					"title": "Dynamic CSS Secrets (abridged)",
 					"type": "Talk"
 				}
