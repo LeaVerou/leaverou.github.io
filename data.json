@@ -1951,6 +1951,18 @@
 			"type": "Academic Peer-reviewed Papers",
 			"publication": [
 				{
+					"url": "https://dl.acm.org/doi/10.1145/3526113.3545706",
+					"title": "Wikxhibit: Using HTML and Wikidata to Author Applications that Link Data Across the Web",
+					"author": [
+						"Tarfah Alrashed",
+						"Lea Verou",
+						"David Karger"
+					],
+					"venueUrl": "https://uist.acm.org/uist2022/",
+					"venue": "UIST 2022",
+					"date": "2022-10"
+				},
+				{
 					"title": "Shapir: Standardizing and Democratizing Access to Web APIs",
 					"author": [
 						"Tarfah Alrashed",
