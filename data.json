@@ -3,7 +3,7 @@
 		{
 			"talk": [
 				{
-					"title": "TBD",
+					"title": "Dynamic CSS Secrets",
 					"type": "Talk"
 				}
 			],
@@ -51,7 +51,8 @@
 			"name": "CSS Day",
 			"date": "2022-06-09",
 			"city": "Amsterdam",
-			"country": "nl"
+			"country": "nl",
+			"comment": "The video broke all the conference's view records for a new upload: https://twitter.com/CSSDayConf/status/1542778793219301376"
 		},
 		{
 			"talk": [
