@@ -3,6 +3,19 @@
 		{
 			"talk": [
 				{
+					"title": "TBD",
+					"type": "Talk"
+				}
+			],
+			"url": "https://2023.fronteersconf.org/",
+			"name": "Fronteers",
+			"date": "2023-09-22",
+			"city": "Utrecht",
+			"country": "online"
+		},
+		{
+			"talk": [
+				{
 					"title": "Dynamic CSS Secrets",
 					"type": "Talk"
 				}
