@@ -3,6 +3,20 @@
 		{
 			"talk": [
 				{
+					"title": "A story of ice, fire, and CSS Nesting",
+					"type": "Talk"
+				}
+			],
+			"url": "https://fitc.ca/event/webu/",
+			"name": "Web Unleashed",
+			"date": "2023-10-14",
+			"city": "Toronto",
+			"country": "ca",
+			"days": 3
+		},
+		{
+			"talk": [
+				{
 					"title": "TBD",
 					"type": "Talk"
 				}
